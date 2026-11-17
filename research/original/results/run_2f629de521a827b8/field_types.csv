@@ -1,0 +1,8 @@
+variable,raw_class,raw_type
+state,character,character
+year,numeric,double
+cigsale,numeric,double
+lnincome,numeric,double
+beer,numeric,double
+age15to24,numeric,double
+retprice,numeric,double

@@ -1,0 +1,1 @@
+fit_id: fit_42a30e1fbe3851004effbc69  UTC: 2026-11-15T14:27:48.716Z  target: Georgia  method: SCM_OUTCOME 

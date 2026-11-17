@@ -1,0 +1,44 @@
+fit_id: fit_14a61f29c332ce29a8a7d273  UTC: 2026-11-15T14:30:52.941Z  target: South Carolina  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                       p1          p2         p3        p4          p5
+Nelder-Mead -0.0008630923 -0.02449587 0.03267272 0.2634817   0.6311167
+BFGS        48.0638946556  1.06852908 7.16877546 0.8607137 258.2357901
+                     p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead  0.04176511  0.1127373 7.794389    170     NA    NA       10   NA
+BFGS        51.81758508 61.6591798 3.047292    183     98    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 0.830
+BFGS          NA 5.325
+                    p1           p2            p3          p4        p5
+Nelder-Mead 0.01266742 -0.002598010 -0.0006859963  0.01363915 0.5649463
+BFGS        0.02080654  0.005173404 -0.0015465829 -0.04097438 0.7610475
+                   p6          p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.4065533  0.04542376 2.192865    502     NA    NA        1   NA
+BFGS        0.1309182 -0.10318434 2.232031     78      8    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 2.484
+BFGS          NA 0.732
+
+ Equal weight loss is: 3.047292 
+
+ Regression Loss is: 2.192865 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 2.192865 
+
+solution.v:
+ 0.0121044 0.002482537 0.0006555062 0.01303294 0.5398364 0.3884834 0.04340483 
+
+solution.w:
+ 1.402e-06 3.0287e-06 8.299e-07 1.5006e-06 4.907e-07 2.513e-06 0.0001460456 9.254e-07 1.212e-06 1.085e-07 1.2515e-06 9.295e-07 0.07961968 3.1298e-06 1.2176e-06 8.607e-07 0.4067085 4.1894e-06 3.08e-06 1.3557e-06 1.3748e-06 1.5368e-06 4.32625e-05 1.924e-07 1.6763e-06 0.0001086703 7.383e-07 1.9491e-06 1.5651e-06 1.1934e-06 0.3151993 4.2623e-06 4.84e-07 1.20347e-05 0.1572303 9.173e-07 0.04088626 2.0785e-06 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

@@ -1,0 +1,15 @@
+{
+  "url": "https://raw.githubusercontent.com/edunford/tidysynth/master/data/smoking.rda",
+  "acquired_utc": "2026-11-15T14:06:23.944711+00:00",
+  "bytes": 17505,
+  "sha256": "a946d153e8faee62e6deba7a16db6f4c1251d9e56d5b41de7e79a593eb8110d9",
+  "method": "curl -fL --retry 3 --connect-timeout 20; original binary retained",
+  "reference_hash_matches": true,
+  "repository_head_at_acquisition": "58eda583ea28645a3531cd769b7852ff504656df",
+  "serialization_changes": "none",
+  "transformations": [
+    "load smoking object; convert tibble to data.frame",
+    "state names retained; year integer; alphabetical stable state_id appended",
+    "sort state/year; no rows dropped; no imputation; original numerical fields retained"
+  ]
+}

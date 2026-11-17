@@ -1,0 +1,44 @@
+fit_id: fit_8a54d6bd88b5a0fe15d89d4e  UTC: 2026-11-15T14:32:08.804Z  target: Wyoming  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                   p1          p2         p3           p4         p5
+Nelder-Mead 0.2079178   0.0320454 0.17337057   0.09056552  0.2421264
+BFGS        9.8325759 -11.1936323 0.09880143 -12.62682792 53.6309684
+                     p6          p7     value fevals gevals niter convcode kkt1
+Nelder-Mead   0.1643625  0.01711875 100.44234    501     NA    NA        1   NA
+BFGS        -10.1354081 -1.93041372  96.67671    167     42    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 2.142
+BFGS          NA 2.706
+                    p1         p2          p3            p4         p5
+Nelder-Mead 0.02259178 0.04419568  0.02215111 -1.468696e-06  0.5020599
+BFGS        2.70358341 6.76353701 -4.39525294  4.249101e-02 11.7353078
+                    p6           p7     value fevals gevals niter convcode kkt1
+Nelder-Mead  0.4055912 -0.002331858  92.23625    501     NA    NA        1   NA
+BFGS        -0.3236296 12.903963891 102.86085    100     19    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.991
+BFGS          NA 1.239
+
+ Equal weight loss is: 96.67671 
+
+ Regression Loss is: 92.23625 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 92.23625 
+
+solution.v:
+ 0.02261614 0.04424332 0.02217499 1.4703e-06 0.5026012 0.4060285 0.002334372 
+
+solution.w:
+ 3.00012e-05 9.763e-06 7.87087e-05 0.618585 1.30951e-05 7.40006e-05 6.64268e-05 3.2283e-06 3.85067e-05 5.03298e-05 2.32777e-05 3.43806e-05 0.2025833 0.0009441695 1.93177e-05 3.08313e-05 4.33497e-05 2.21161e-05 4.4223e-06 2.0252e-05 2.85137e-05 0.08718003 2.15256e-05 4.45973e-05 0.04690353 2.74955e-05 0.0002045174 1.13763e-05 5.0613e-05 0.0001482696 2.51435e-05 2.69679e-05 0.03416639 6.24147e-05 0.0001736853 0.008202209 1.40378e-05 3.41824e-05 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

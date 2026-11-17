@@ -1,0 +1,7 @@
+options(repos=c(CRAN='https://cloud.r-project.org'))
+.libPaths(c(normalizePath('.Rlib'),.libPaths()))
+pkgs<-c('Synth','osqp','Matrix','optimx','kernlab','rgenoud','ggplot2','dplyr','tidyr','readr','yaml','jsonlite','digest','renv','knitr','patchwork')
+renv::snapshot(project=getwd(),library=.libPaths(),packages=pkgs,lockfile='renv.lock',prompt=FALSE,force=TRUE)
+capture.output(sessionInfo(),file='metadata/sessionInfo.txt')
+dir.create('metadata/software_citations',recursive=TRUE,showWarnings=FALSE)
+for(p in c('base',pkgs))capture.output(print(citation(p),style='bibtex'),file=file.path('metadata/software_citations',paste0(p,'.bib')))

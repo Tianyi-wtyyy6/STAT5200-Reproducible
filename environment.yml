@@ -1,0 +1,24 @@
+name: stat5200-repro
+channels:
+  - conda-forge
+dependencies:
+  - libblas=3.11.0=10_h978bd12_netlib
+  - libcblas=3.11.0=10_h8cfbb66_netlib
+  - liblapack=3.11.0=10_he2a6e96_netlib
+  - r-base=4.5.2
+  - r-synth=1.1_10
+  - r-osqp=1.0.0
+  - r-matrix=1.7_6
+  - r-optimx=2025_4.9
+  - r-kernlab=0.9_33
+  - r-rgenoud=5.9_0.11
+  - r-ggplot2=4.0.1
+  - r-renv=1.1.5
+  - r-dplyr
+  - r-tidyr
+  - r-readr
+  - r-yaml
+  - r-jsonlite
+  - r-digest
+  - r-knitr
+  - r-patchwork

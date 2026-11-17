@@ -1,0 +1,130 @@
+{
+  "tested_commit": "62812354bbe0dd6a5aa725f4d0592e96274cef41",
+  "counts": {
+    "success": 373,
+    "skipped": 2
+  },
+  "unique_fit_ids": 362,
+  "cases_reusing_fits_within_new_run": 11,
+  "figures": 59,
+  "tables": 28,
+  "nonempty_artifacts": 146,
+  "comparison_checks": 250,
+  "comparison_failures": 0,
+  "maximum_reported_absolute_difference": 0.0,
+  "display_table_comparisons": [
+    {
+      "table": "S_CA_validation.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_LOO.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_V.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_acceptance.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_balance.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_batch_checks.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_clean.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_data_audit.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_donor_validation.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_dynamic.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_intersections.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_optimizer.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_paired.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_placebo.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_predictors.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_published.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_qp.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_ranks.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_registry.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_software.csv",
+      "content_identical": false
+    },
+    {
+      "table": "S_status_summary.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_timing.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_weights.csv",
+      "content_identical": true
+    },
+    {
+      "table": "S_windows.csv",
+      "content_identical": true
+    },
+    {
+      "table": "T1_data.csv",
+      "content_identical": true
+    },
+    {
+      "table": "T2_replication.csv",
+      "content_identical": true
+    },
+    {
+      "table": "T3_methods.csv",
+      "content_identical": true
+    },
+    {
+      "table": "T4_validation.csv",
+      "content_identical": true
+    }
+  ],
+  "full_elapsed_seconds": 1072.2668
+}

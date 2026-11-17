@@ -1,0 +1,8 @@
+{
+  "eval_rmse": "RMS of observed-minus-predicted gap over case evaluation years. For true California policy evaluation, this is a policy-gap deviation statistic, NOT observed prediction error in Y(0). Use evaluation_role and eval_gap_rms.",
+  "eval_mspe": "Mean squared gap. For California post-policy, used descriptively in placebo ratio; not known counterfactual prediction MSE.",
+  "post_mspe": "Mean squared 1989-2000 gap; a placebo deviation statistic, with role specified by case.",
+  "eval_gap_rms": "Role-neutral alias for square root of mean squared evaluation gap.",
+  "eval_mean_abs_gap": "Role-neutral alias for mean absolute evaluation gap.",
+  "RMSE_in_validation_case_metrics": "Genuine observed-outcome holdout error for pre-policy California / donor validation, conditional on contemporaneous donors being available."
+}

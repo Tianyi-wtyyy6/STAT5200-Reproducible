@@ -1,0 +1,23 @@
+trying URL 'https://cloud.r-project.org/src/contrib/Synth_1.1-10.tar.gz'
+Content type 'application/x-gzip' length 79797 bytes (77 KB)
+==================================================
+downloaded 77 KB
+
+* installing *source* package ‘Synth’ ...
+** this is package ‘Synth’ version ‘1.1-10’
+** package ‘Synth’ successfully unpacked and MD5 sums checked
+** using staged installation
+** R
+** data
+** inst
+** byte-compile and prepare package for lazy loading
+** help
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded from temporary location
+** testing if installed package can be loaded from final location
+** testing if installed package keeps a record of temporary installation path
+* DONE (Synth)
+
+The downloaded source packages are in
+	‘/tmp/RtmpvfbS3B/downloaded_packages’

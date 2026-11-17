@@ -1,0 +1,1 @@
+Figures regenerated from CSV tables only; no fit calls in this stage.

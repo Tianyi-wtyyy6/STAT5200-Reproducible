@@ -1,0 +1,44 @@
+fit_id: fit_85866dc911ec8148c010511b  UTC: 2026-11-15T14:24:41.917Z  target: North Carolina  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                       p1          p2          p3          p4         p5
+Nelder-Mead    0.02859904 -0.01023037  0.02226615 -0.04579386   0.934501
+BFGS        -158.25660764  0.11959267 -0.03065558 -0.09590437 396.205197
+                      p6          p7    value fevals gevals niter convcode kkt1
+Nelder-Mead   -0.3486967    1.170972 131.2157    368     NA    NA       10   NA
+BFGS        -134.3838946 -277.390154 146.1998    237    100    NA        1   NA
+            kkt2 xtime
+Nelder-Mead   NA 0.947
+BFGS          NA 5.227
+                    p1            p2           p3           p4        p5
+Nelder-Mead 0.01629241  0.0006131661 0.0002697679 -0.000807393 0.5160320
+BFGS        0.01400246 -0.0018328968 0.0007668713 -0.000767271 0.5940495
+                   p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.4185786 0.08534370 81.39056    501     NA    NA        1   NA
+BFGS        0.4385499 0.07355233 81.58666    170     13    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.763
+BFGS          NA 0.944
+
+ Equal weight loss is: 131.2157 
+
+ Regression Loss is: 81.39056 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 81.39056 
+
+solution.v:
+ 0.01569691 0.0005907546 0.0002599078 0.0007778824 0.4971708 0.4032794 0.08222435 
+
+solution.w:
+ 1.727e-07 1.568e-07 1.743e-07 5.72e-08 1.389e-07 1.354e-07 0.02978225 1.268e-07 2.5135e-06 1.847e-07 1.52e-07 0.2028887 2.365e-07 2.545e-07 1.129e-07 3.404e-07 1.507e-07 6.513e-07 1.821e-07 0.6158467 0.1514719 5.189e-07 3.005e-07 1.163e-07 2.293e-07 1.038e-07 1.891e-07 2.531e-07 4.433e-07 1.387e-07 1.208e-07 7.751e-07 2.542e-07 2.04e-07 5.474e-07 1.199e-07 3.768e-07 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

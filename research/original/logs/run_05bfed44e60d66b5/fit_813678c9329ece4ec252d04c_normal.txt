@@ -1,0 +1,41 @@
+fit_id: fit_813678c9329ece4ec252d04c  UTC: 2026-11-15T14:29:29.015Z  target: Nebraska  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                    p1         p2        p3         p4        p5        p6
+Nelder-Mead  0.0224994  0.1672829 0.1158513  0.1790664 0.0786531 0.2625270
+BFGS        -0.4773358 -0.3085890 1.4056547 -0.0160102 0.7463897 0.5769249
+                      p7    value fevals gevals niter convcode kkt1 kkt2 xtime
+Nelder-Mead  0.004083618 6.324296    502     NA    NA        1   NA   NA 2.068
+BFGS        -0.411187804 5.955271     46      5    NA        0   NA   NA 0.525
+                      p1         p2           p3           p4        p5
+Nelder-Mead 0.0009660799 0.04355932  0.004913449 1.005987e-03 0.5287594
+BFGS        0.2897506237 0.05045879 -0.049440906 6.052653e-05 0.5226438
+                   p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.4148347 0.06165775 5.837735    502     NA    NA        1   NA
+BFGS        0.3965353 0.06835707 6.133881    102      8    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.876
+BFGS          NA 0.645
+
+ Equal weight loss is: 5.955271 
+
+ Regression Loss is: 5.837735 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 5.837735 
+
+solution.v:
+ 0.0009151112 0.0412612 0.004654224 0.0009529125 0.500863 0.3929488 0.05840479 
+
+solution.w:
+ 0.003538253 0.001241043 0.038056 0.02069068 0.1100371 0.002637646 0.00374843 0.07839061 0.007193119 0.002158734 0.006682774 0.006063865 0.001169255 0.003028586 0.002769092 0.009007534 0.003073436 0.004370052 0.126634 0.00162869 0.0009371698 0.2353771 0.001203759 0.005601596 0.005220573 0.003800355 0.2209348 0.002244157 0.003154301 0.005775296 0.003199441 0.008182477 0.0470518 0.002530894 0.00333613 0.003270443 0.01264462 0.003416129 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

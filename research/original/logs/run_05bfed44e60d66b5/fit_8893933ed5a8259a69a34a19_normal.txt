@@ -1,0 +1,38 @@
+fit_id: fit_8893933ed5a8259a69a34a19  UTC: 2026-11-15T14:37:21.277Z  target: California  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                       p1         p2        p3           p4         p5
+Nelder-Mead -0.0005748112  0.1767797 0.3071191    0.1577065  0.2245365
+BFGS        -0.3258049087 41.2759658 9.3698689 -107.0032527 72.6157404
+                     p6    value fevals gevals niter convcode kkt1 kkt2 xtime
+Nelder-Mead  0.09791971 3.414003    251     NA    NA       10   NA   NA 1.123
+BFGS        60.88751103 3.384933    200     95    NA        0   NA   NA 4.784
+                       p1          p2          p3        p4        p5
+Nelder-Mead -0.0004570521 -0.05388891 -0.02433427 0.6009243 0.4787448
+BFGS         0.0003185926  1.74869481 -0.34286529 0.5512694 0.4358932
+                     p6    value fevals gevals niter convcode kkt1 kkt2 xtime
+Nelder-Mead  0.07892313 3.216264    501     NA    NA        1   NA   NA 2.518
+BFGS        -0.04857296 3.301334     66      8    NA        0   NA   NA 0.726
+
+ Equal weight loss is: 3.384933 
+
+ Regression Loss is: 3.216264 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 3.216264 
+
+solution.v:
+ 0.0003694029 0.0435546 0.01966767 0.4856847 0.3869356 0.06378799 
+
+solution.w:
+ 2.776e-07 2.325e-07 0.1525709 0.05796352 2.806e-07 2.546e-07 1.6298e-06 9.917e-07 2.293e-07 7.084e-07 5.433e-07 1.327e-07 4.364e-07 2.907e-07 4.7175e-06 2.843e-07 2.733e-07 0.2034312 1.25e-06 0.2397783 1.898e-07 3.9079e-06 2.065e-07 2.3249e-06 2.89e-07 5.151e-07 5.112e-07 2.639e-07 2.235e-07 5.912e-07 2.274e-07 1.07872e-05 0.3462207 3.268e-07 2.619e-07 3.241e-07 1.4696e-06 4.58e-07 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

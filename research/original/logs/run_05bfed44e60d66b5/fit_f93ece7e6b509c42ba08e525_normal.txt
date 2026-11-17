@@ -1,0 +1,1 @@
+fit_id: fit_f93ece7e6b509c42ba08e525  UTC: 2026-11-15T14:29:49.185Z  target: New Hampshire  method: SCM_OUTCOME 

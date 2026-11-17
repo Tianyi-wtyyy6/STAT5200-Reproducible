@@ -1,0 +1,44 @@
+fit_id: fit_317b1824c236e9fdddf70d24  UTC: 2026-11-15T14:34:57.867Z  target: California  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                       p1          p2         p3        p4         p5
+Nelder-Mead -0.0007674282  0.01466507  0.6742601 0.1284042  0.3028226
+BFGS         0.0138587969 -0.24621490 -5.1271148 7.2193190 20.3151347
+                    p6        p7    value fevals gevals niter convcode kkt1
+Nelder-Mead -0.1001828 0.1340663 3.346415    502     NA    NA        1   NA
+BFGS        12.5552825 1.0824612 3.175069    106     43    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.738
+BFGS          NA 2.685
+                       p1          p2            p3           p4        p5
+Nelder-Mead -0.0006045787 0.128310315 -0.0359646233 -0.039348726 0.6010371
+BFGS        -0.0009933455 0.003034433 -0.0002411722  0.001795828 0.5328967
+                   p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.3283167 0.03617608 3.115293    502     NA    NA        1   NA
+BFGS        0.3934610 0.06656944 3.906949     53      4    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 2.029
+BFGS          NA 0.351
+
+ Equal weight loss is: 3.175069 
+
+ Regression Loss is: 3.115293 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 3.115293 
+
+solution.v:
+ 0.0005168408 0.1096896 0.03074535 0.03363835 0.5138131 0.2806706 0.03092612 
+
+solution.w:
+ 3.682e-07 2.908e-07 0.1643195 0.06936252 5.376e-07 4.484e-07 1.06234e-05 1.5788e-06 4.998e-07 8.055e-07 6.731e-07 1.654e-07 3.405e-07 3.916e-07 2.516e-07 3.351e-07 5.145e-07 0.1990872 3.7565e-06 0.2327998 1.54e-07 2.815e-07 4.26e-07 6.019e-07 2.232e-07 1.2262e-06 5.502e-07 4.109e-07 7.251e-07 3.86e-07 1.0752e-06 0.3338878 3.595e-07 6.131e-07 3.963e-07 0.0005137133 4.231e-07 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

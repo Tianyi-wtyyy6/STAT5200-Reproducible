@@ -1,0 +1,1 @@
+fit_id: fit_b1c988204fe7a44e2abf4aa3  UTC: 2026-11-15T14:21:53.011Z  target: Arkansas  method: SCM_OUTCOME 

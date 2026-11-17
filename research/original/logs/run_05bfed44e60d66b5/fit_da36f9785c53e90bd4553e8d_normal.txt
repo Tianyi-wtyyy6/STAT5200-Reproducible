@@ -1,0 +1,44 @@
+fit_id: fit_da36f9785c53e90bd4553e8d  UTC: 2026-11-15T14:30:11.149Z  target: North Dakota  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                     p1            p2           p3           p4          p5
+Nelder-Mead   0.1420062  1.265265e-01    0.2577575 2.284572e-01    0.150062
+BFGS        -51.8864131 -4.765503e+04 3815.1277152 1.495300e+04 -379.815393
+                       p6            p7    value fevals gevals niter convcode
+Nelder-Mead  1.146843e-01 -4.506215e-03 27.43797    501     NA    NA        1
+BFGS        -2.953383e+04  3.518945e+04 14.10640     92     52    NA        0
+            kkt1 kkt2 xtime
+Nelder-Mead   NA   NA 1.935
+BFGS          NA   NA 2.955
+                      p1           p2            p3            p4        p5
+Nelder-Mead  0.005161031  0.065459208 -0.0005155016  1.788879e-05 0.5156543
+BFGS        -0.008428069 -0.002180016 -0.0015369487 -1.379282e-07 0.5267527
+                   p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.3967677 0.07037885 10.06992    502     NA    NA        1   NA
+BFGS        0.3978277 0.06878220 11.16069    219     16    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.648
+BFGS          NA 1.542
+
+ Equal weight loss is: 14.1064 
+
+ Regression Loss is: 10.06992 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 10.06992 
+
+solution.v:
+ 0.004896825 0.06210819 0.0004891119 1.6973e-05 0.4892567 0.3764562 0.06677598 
+
+solution.w:
+ 3.635e-07 3.584e-07 1.09e-07 5.0848e-06 4.3e-09 1.242e-07 3.838e-07 1.31e-07 1.792e-07 1.246e-07 2.226e-07 2.784e-07 7.22e-07 0.0002914036 1.183e-07 1.16e-08 1.3353e-06 2.57e-07 5.08256e-05 2.411e-07 4.07e-08 1.64e-08 1.1493e-06 4.94e-08 3.27e-07 0.5673881 2.281e-07 9.56e-08 1.9981e-06 4.129e-07 3.438e-07 0.00225119 0.3110537 4.506e-07 3.757e-07 1.279e-07 1.025e-07 0.1189489 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

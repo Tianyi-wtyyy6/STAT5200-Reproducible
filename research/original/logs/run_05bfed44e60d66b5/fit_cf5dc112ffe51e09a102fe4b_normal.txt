@@ -1,0 +1,1 @@
+fit_id: fit_cf5dc112ffe51e09a102fe4b  UTC: 2026-11-15T14:31:42.505Z  target: Vermont  method: SCM_OUTCOME 

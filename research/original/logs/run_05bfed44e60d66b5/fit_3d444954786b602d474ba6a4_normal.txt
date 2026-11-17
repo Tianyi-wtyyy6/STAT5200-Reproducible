@@ -1,0 +1,44 @@
+fit_id: fit_3d444954786b602d474ba6a4  UTC: 2026-11-15T14:25:18.071Z  target: Pennsylvania  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                       p1          p2           p3           p4         p5
+Nelder-Mead -3.467039e-04  0.03271416 -0.009016085   0.01308281  0.4283382
+BFGS        -1.085929e+01 -0.01571128  0.038181076 -13.49159960 36.8286138
+                    p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.07666697  0.1982999 5.554061    208     NA    NA       10   NA
+BFGS        6.01489920 18.2017711 6.283936    111     36    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.014
+BFGS          NA 1.794
+                       p1           p2           p3            p4        p5
+Nelder-Mead  2.477909e-04 0.0015555848 0.0260871867 -1.796039e-06 0.5137696
+BFGS        -7.474542e-05 0.0001197425 0.0002674638  2.586022e-03 0.5306486
+                   p6        p7    value fevals gevals niter convcode kkt1 kkt2
+Nelder-Mead 0.3282714 0.0257827 3.274583    421     NA    NA       10   NA   NA
+BFGS        0.3949874 0.0673605 3.863624    190     10    NA        0   NA   NA
+            xtime
+Nelder-Mead 2.215
+BFGS        1.262
+
+ Equal weight loss is: 5.554061 
+
+ Regression Loss is: 3.274583 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 3.274583 
+
+solution.v:
+ 0.00027664 0.001736694 0.02912439 2.0051e-06 0.5735853 0.3664905 0.02878446 
+
+solution.w:
+ 1.5109e-06 0.4125368 1.34394e-05 0.1776323 6.581e-07 1.393e-06 0.1780901 1.7608e-06 5.056e-07 2.003e-06 3.0393e-06 3.753e-07 8.426e-07 8.998e-07 2.2766e-06 9.369e-07 1.6641e-06 2.6624e-06 7.6925e-06 3.95e-07 2.809e-07 4.2828e-06 2.904e-07 1.1386e-06 0.1532876 9.672e-07 5.62e-07 9.138e-07 1.6191e-06 1.315e-07 0.02989424 0.04850192 6.923e-07 8.014e-07 1.2045e-06 1.3308e-06 8.22e-07 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 10 ; retained without post-outcome-based selection. 

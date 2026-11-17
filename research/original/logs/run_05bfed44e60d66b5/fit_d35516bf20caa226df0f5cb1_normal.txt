@@ -1,0 +1,1 @@
+fit_id: fit_d35516bf20caa226df0f5cb1  UTC: 2026-11-15T14:29:01.828Z  target: Minnesota  method: SCM_OUTCOME 

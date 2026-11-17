@@ -1,0 +1,13 @@
+check,method,filter,status,denominator
+placebo_denominator,SCM_ADH,unfiltered,pass,39
+placebo_denominator,SCM_ADH,c20,pass,33
+placebo_denominator,SCM_ADH,c5,pass,29
+placebo_denominator,SCM_ADH,c2,pass,19
+placebo_denominator,SCM_OUTCOME,unfiltered,pass,39
+placebo_denominator,SCM_OUTCOME,c20,pass,35
+placebo_denominator,SCM_OUTCOME,c5,pass,32
+placebo_denominator,SCM_OUTCOME,c2,pass,22
+placebo_denominator,DID,unfiltered,pass,39
+placebo_denominator,DID,c20,pass,39
+placebo_denominator,DID,c5,pass,36
+placebo_denominator,DID,c2,pass,33

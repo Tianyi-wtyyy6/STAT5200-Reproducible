@@ -1,0 +1,2 @@
+run_id,train_start,train_end,eval_start,eval_end,n_eval,n_rows,analytic_did,twfe_tau,difference,standard_error,inference_note
+run_2f629de521a827b8,1970,1988,1989,2000,12,1209,-27.349111081930836,-27.349111081930687,1.4921397450962104e-13,NA,OLS point estimate only; single treated state; no ordinary t-test inference

@@ -1,0 +1,1 @@
+fit_id: fit_e47d345b2e8147086486ab85  UTC: 2026-11-15T14:53:00.764Z  target: California  method: SCM_OUTCOME 

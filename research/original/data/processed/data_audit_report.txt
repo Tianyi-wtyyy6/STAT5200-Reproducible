@@ -1,0 +1,8 @@
+DATA AUDIT (actual file read; no listwise deletion or imputation)
+UTC: 2026-11-15T14:52:43.400Z
+SHA256: a946d153e8faee62e6deba7a16db6f4c1251d9e56d5b41de7e79a593eb8110d9
+All structural and supplied numeric checks passed.
+Canonical CSV contains all 1209 rows and all original missing values.
+Income: Appendix A describes logged real state personal income; Table 1 labels it Ln(GDP per capita). The original field lnincome is retained.
+Units follow ADH Appendix A and Table 1 notes; the tidysynth per-100,000 wording for cigarettes/beer is not used.
+Observed descriptive summaries exclude missing cells explicitly, with n and n_missing reported. Model predictor windows must be complete and are never shortened.

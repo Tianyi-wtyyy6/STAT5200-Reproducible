@@ -1,0 +1,43 @@
+fit_id: fit_f141ef5b5dc317e8ba58aea7  UTC: 2026-11-15T14:22:06.512Z  target: Connecticut  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                     p1          p2          p3         p4           p5
+Nelder-Mead  0.04408212  0.05639698   0.1525232  0.1646824   0.05862572
+BFGS        47.19737935 59.59745064 210.6257335 81.3695115 162.85460934
+                     p6          p7    value fevals gevals niter convcode kkt1
+Nelder-Mead   0.3667941   0.1491934 26.06776    501     NA    NA        1   NA
+BFGS        108.7794784 111.6205618 24.78930    117    100    NA        1   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.505
+BFGS          NA 4.620
+                      p1            p2          p3           p4        p5
+Nelder-Mead  0.050467585  0.0009562472 -0.02070121  0.006571056 0.5685408
+BFGS        -0.009022005 -0.0676645524 -0.09894247 -0.015384703 0.5491933
+                   p6          p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.4366367 -0.02747401 25.44815    199     NA    NA        0   NA
+BFGS        0.3505405  0.29911837 22.93185    117     13    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 0.645
+BFGS          NA 1.068
+
+ Equal weight loss is: 24.7893 
+
+ Regression Loss is: 22.93185 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 22.93185 
+
+solution.v:
+ 0.006491277 0.04868423 0.0711885 0.0110692 0.3951412 0.2522117 0.2152138 
+
+solution.w:
+ 4.53e-08 2.96e-06 2.9e-08 6.11e-08 3.56e-08 0.0001117972 1.018e-07 2.98e-08 7.44e-08 5.98e-08 1.7e-08 3.13e-08 1.4762e-06 0.5901865 2.6e-08 8.37e-08 3.76e-08 4.88e-08 5.198e-07 3.62e-08 1.14e-08 1.28e-08 2.22e-08 6.08e-08 1.047e-07 0.1602315 7.22e-08 1.62e-08 2.72e-08 5.56e-08 3.99e-08 0 4.1e-08 2.11e-08 0.2494639 8.33e-08 2.84e-08 
+

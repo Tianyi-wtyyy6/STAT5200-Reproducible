@@ -1,0 +1,1 @@
+fit_id: fit_3860d9e851ca26c3c10151b6  UTC: 2026-11-15T14:27:23.759Z  target: Connecticut  method: SCM_OUTCOME 

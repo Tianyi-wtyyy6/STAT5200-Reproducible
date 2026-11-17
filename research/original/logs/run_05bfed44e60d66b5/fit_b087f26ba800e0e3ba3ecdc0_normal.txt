@@ -1,0 +1,44 @@
+fit_id: fit_b087f26ba800e0e3ba3ecdc0  UTC: 2026-11-15T14:31:16.027Z  target: Texas  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                       p1         p2         p3         p4         p5
+Nelder-Mead  0.0003342139  0.2163246  0.2505617  0.1782066   0.158176
+BFGS        -0.0095941617 -0.7745220 27.4750279 -0.0465595 -32.246526
+                    p6          p7     value fevals gevals niter convcode kkt1
+Nelder-Mead  0.2499609  0.03474978 16.605779    489     NA    NA       10   NA
+BFGS        62.0940559 -2.87744395  5.653363    173     76    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 2.685
+BFGS          NA 5.045
+                     p1            p2            p3          p4        p5
+Nelder-Mead 0.002212486  1.426250e-03 -1.717368e-03 0.001908436 0.5091984
+BFGS        0.008863723 -8.205453e-08  5.695663e-05 0.003426857 0.5266320
+                   p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.4916053 0.02524843 4.668251    502     NA    NA        1   NA
+BFGS        0.3983340 0.06585868 6.186379     98      6    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 2.367
+BFGS          NA 0.767
+
+ Equal weight loss is: 5.653363 
+
+ Regression Loss is: 4.668251 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 4.668251 
+
+solution.v:
+ 0.00214115 0.001380264 0.001661996 0.001846903 0.4927806 0.4757548 0.02443436 
+
+solution.w:
+ 1.4301e-06 0.07876846 2.101e-07 2.062e-07 5.76543e-05 1.572e-07 6.542e-07 1.713e-07 2.338e-07 9.89e-08 3.728e-07 2.773e-07 5.58e-08 0.2120726 1.507e-07 0.1638913 8.813e-07 1.841e-07 2.352e-07 4.469e-07 6.72e-08 3.97e-08 6.365e-07 5.52e-08 0.2826579 3.894e-07 1.712e-07 0.2625379 1.214e-07 2.86e-07 3.353e-07 7.358e-07 3.368e-07 1.11e-07 1.222e-07 1.933e-07 4.7947e-06 1.074e-07 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

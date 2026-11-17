@@ -1,0 +1,44 @@
+fit_id: fit_e925f7a69a3ff3cda6ecb01e  UTC: 2026-11-15T14:35:12.176Z  target: California  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                      p1          p2        p3           p4         p5
+Nelder-Mead 0.0005954424  0.00728697 0.4445777  0.008862082  0.2609303
+BFGS        0.0274551411 -3.31728231 8.1650840 10.941166255 14.1063588
+                     p6        p7    value fevals gevals niter convcode kkt1
+Nelder-Mead  0.09749916 0.1915442 3.680268    502     NA    NA        1   NA
+BFGS        14.50581222 5.4330111 3.325715    110     32    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.774
+BFGS          NA 2.261
+                       p1          p2          p3          p4        p5
+Nelder-Mead  0.0005931216  0.06619334 -0.01632459 -0.02936727 0.5755022
+BFGS        -0.0010506142 -0.10169699  0.14367289  0.59520567 0.7406790
+                   p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.4157243  0.0712230 3.174338    122     NA    NA       10   NA
+BFGS        0.3639832 -0.1177599 3.207484    232     21    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 0.577
+BFGS          NA 2.149
+
+ Equal weight loss is: 3.325715 
+
+ Regression Loss is: 3.174338 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 3.174338 
+
+solution.v:
+ 0.0005048154 0.05633822 0.01389413 0.02499496 0.4898192 0.3538296 0.06061904 
+
+solution.w:
+ 8.895e-07 7.504e-07 0.1559646 0.06349887 1.0328e-06 9.56e-07 0.0003166699 2.4807e-06 1.1073e-06 1.8466e-06 1.7829e-06 4.521e-07 7.489e-07 9.94e-07 4.496e-07 7.686e-07 1.1404e-06 0.2047095 5.0488e-06 0.2355388 2.747e-07 0.0007960621 8.253e-07 1.21e-06 4.581e-07 2.2309e-06 1.0679e-06 8.433e-07 1.6811e-06 8.675e-07 6.18e-07 0.339137 7.771e-07 1.2999e-06 1.0893e-06 3.8063e-06 9.679e-07 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 10 ; retained without post-outcome-based selection. 

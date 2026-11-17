@@ -1,0 +1,40 @@
+fit_id: fit_43c0dfffc210eec3071f9971  UTC: 2026-11-15T14:26:07.469Z  target: Utah  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                    p1         p2          p3        p4        p5        p6
+Nelder-Mead 0.14235988 0.14985933  0.08099737 0.1554845 0.1464988 0.1699139
+BFGS        0.02900096 0.02413568 -0.02947802 0.2884704 0.1269698 0.1827342
+                   p7    value fevals gevals niter convcode kkt1 kkt2 xtime
+Nelder-Mead 0.1536917 1277.492    186     NA    NA        0   NA   NA 0.459
+BFGS        0.2330386 1277.487     29     10    NA        0   NA   NA 0.400
+                       p1           p2          p3            p4        p5
+Nelder-Mead -0.0009501811 2.348240e-02 0.028295682  0.0035813734 0.5320587
+BFGS         0.0033328986 3.834051e-05 0.001028149 -0.0003542756 0.5301768
+                   p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.3963996 0.06877478 593.7643     53     NA    NA        0   NA
+BFGS        0.3954403 0.06860307 593.7646      7      2    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 0.128
+BFGS          NA 0.080
+
+ Equal weight loss is: 1277.487 
+
+ Regression Loss is: 593.7643 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 593.7643 
+
+solution.v:
+ 0.0009018913 0.02228898 0.02685765 0.003399362 0.5050186 0.3762539 0.06527953 
+
+solution.w:
+ 2.5e-09 1.3e-09 1.1e-09 2.3e-09 6e-10 1.3e-09 1e-09 1e-09 5e-10 1.5e-09 1.4e-09 2e-10 1e-09 7e-10 3.1e-09 2.3e-09 7e-10 1.2e-09 2.2e-09 2e-10 1e-10 1 2e-10 2.7e-09 1.1e-09 9e-10 1.4e-09 6e-10 1.2e-09 3.3e-09 1.4e-09 1.9e-09 5e-10 6e-10 1.4e-09 2.5e-09 5e-10 
+

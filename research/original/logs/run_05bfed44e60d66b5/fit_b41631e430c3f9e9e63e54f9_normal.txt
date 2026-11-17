@@ -1,0 +1,1 @@
+fit_id: fit_b41631e430c3f9e9e63e54f9  UTC: 2026-11-15T14:24:34.051Z  target: New Hampshire  method: DID 

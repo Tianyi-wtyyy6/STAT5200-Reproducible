@@ -1,0 +1,14 @@
+check,method,status,cache_disabled_recomputed
+data_contract,all,pass,FALSE
+main_post_label_leakage,SCM_ADH,pass,TRUE
+weights_matrix_objective,SCM_ADH,pass,TRUE
+main_post_label_leakage,SCM_OUTCOME,pass,TRUE
+weights_matrix_objective,SCM_OUTCOME,pass,TRUE
+qp_feasible_equal_mean_bound,SCM_OUTCOME,pass,TRUE
+main_post_label_leakage,DID,pass,TRUE
+weights_matrix_objective,DID,pass,TRUE
+validation_label_isolation,SCM_OUTCOME,pass,TRUE
+validation_label_isolation,DID,pass,TRUE
+validation_label_isolation,SCM_ADH,pass,TRUE
+did_twfe_equivalence,DID,pass,TRUE
+ratio_boundary_conventions,all,pass,FALSE

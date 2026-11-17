@@ -1,0 +1,1 @@
+fit_id: fit_60dc5effa4f6ea3ee34feb0d  UTC: 2026-11-15T14:27:19.091Z  target: Colorado  method: DID 

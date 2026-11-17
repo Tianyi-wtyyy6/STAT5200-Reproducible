@@ -1,0 +1,114 @@
+[
+  {
+    "table": "S_CA_validation.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_LOO.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_V.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_acceptance.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_balance.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_batch_checks.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_clean.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_data_audit.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_donor_validation.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_dynamic.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_intersections.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_optimizer.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_paired.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_placebo.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_predictors.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_published.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_qp.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_ranks.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_registry.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_software.csv",
+    "content_identical": false
+  },
+  {
+    "table": "S_status_summary.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_timing.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_weights.csv",
+    "content_identical": true
+  },
+  {
+    "table": "S_windows.csv",
+    "content_identical": true
+  },
+  {
+    "table": "T1_data.csv",
+    "content_identical": true
+  },
+  {
+    "table": "T2_replication.csv",
+    "content_identical": true
+  },
+  {
+    "table": "T3_methods.csv",
+    "content_identical": true
+  },
+  {
+    "table": "T4_validation.csv",
+    "content_identical": true
+  }
+]

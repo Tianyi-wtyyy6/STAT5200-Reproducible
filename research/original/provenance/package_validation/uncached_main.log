@@ -1,0 +1,12 @@
+Cold workspace: /project/JinLab/TianyiW/STAT5200/exports/reproducibility_2026-11-16/STAT5200_Reproducible/fresh_runs/20261117T005537_300259 
+No model or result caches were copied.
+Run: run_d43543f057d2c6a7  Stage: main  UTC: 2026-11-17T00:55:40.753Z 
+[1/375] CA_main SCM_ADH (main)
+  pre RMSPE 1.7794; evaluation mean gap -18.8456; cached=FALSE
+[2/375] CA_main SCM_OUTCOME (main)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[3/375] CA_main DID (main)
+  pre RMSPE 7.1572; evaluation mean gap -27.3491; cached=FALSE
+Stage completed at 2026-11-17T00:55:51.986Z 
+Compared 93 scientific value/structure checks; failures: 0 
+Cold workspace retained at /project/JinLab/TianyiW/STAT5200/exports/reproducibility_2026-11-16/STAT5200_Reproducible/fresh_runs/20261117T005537_300259 

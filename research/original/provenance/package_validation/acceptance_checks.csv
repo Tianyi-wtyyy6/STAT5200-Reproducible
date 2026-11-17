@@ -1,0 +1,14 @@
+run_id,check,method,status,value,tolerance,detail,cache_disabled_recomputed,utc
+run_d43543f057d2c6a7,data_contract,all,pass,NA,NA,39 x 31; unique keys; complete outcome; disjoint target/donors; first treatment 1989,FALSE,2026-11-17T00:58:47.586Z
+run_d43543f057d2c6a7,main_post_label_leakage,SCM_ADH,pass,0,1e-8,Both fits and predictions rerun without cache; only post labels changed; expected gap change verified,TRUE,2026-11-17T00:59:05.647Z
+run_d43543f057d2c6a7,weights_matrix_objective,SCM_ADH,pass,4.605982262262387e-12,1e-6,"Donor/year order, simplex, matrix prediction and saved original-scale objective",TRUE,2026-11-17T00:59:05.654Z
+run_d43543f057d2c6a7,main_post_label_leakage,SCM_OUTCOME,pass,0,1e-8,Both fits and predictions rerun without cache; only post labels changed; expected gap change verified,TRUE,2026-11-17T00:59:05.744Z
+run_d43543f057d2c6a7,weights_matrix_objective,SCM_OUTCOME,pass,0,1e-6,"Donor/year order, simplex, matrix prediction and saved original-scale objective",TRUE,2026-11-17T00:59:05.751Z
+run_d43543f057d2c6a7,qp_feasible_equal_mean_bound,SCM_OUTCOME,pass,-254.66283596618666,1e-5,SCM loss no worse than unshifted equal-donor mean; PSD Hessian; no ridge,TRUE,2026-11-17T00:59:05.752Z
+run_d43543f057d2c6a7,main_post_label_leakage,DID,pass,0,1e-8,Both fits and predictions rerun without cache; only post labels changed; expected gap change verified,TRUE,2026-11-17T00:59:05.784Z
+run_d43543f057d2c6a7,weights_matrix_objective,DID,pass,5.684341886080802e-14,1e-6,"Donor/year order, simplex, matrix prediction and saved original-scale objective",TRUE,2026-11-17T00:59:05.791Z
+run_d43543f057d2c6a7,validation_label_isolation,SCM_OUTCOME,pass,0,1e-8,"CA_pre_1 rebuilt/refitted/repredicted with mutated held-out labels, cache disabled; score changed",TRUE,2026-11-17T00:59:05.821Z
+run_d43543f057d2c6a7,validation_label_isolation,DID,pass,0,1e-8,"CA_pre_1 rebuilt/refitted/repredicted with mutated held-out labels, cache disabled; score changed",TRUE,2026-11-17T00:59:05.840Z
+run_d43543f057d2c6a7,validation_label_isolation,SCM_ADH,pass,0,1e-8,"Clean Colorado case; train 1970-1988, predict 1989-2000; no-cache original and mutated refits",TRUE,2026-11-17T00:59:29.787Z
+run_d43543f057d2c6a7,did_twfe_equivalence,DID,pass,1.4921397450962104e-13,1e-7,Same balanced sample; static TWFE tau equals analytic average post gap,TRUE,2026-11-17T00:59:29.871Z
+run_d43543f057d2c6a7,ratio_boundary_conventions,all,pass,NA,NA,Inf for near-zero pre/nonzero post; NA for both near-zero; no epsilon added,FALSE,2026-11-17T00:59:29.872Z

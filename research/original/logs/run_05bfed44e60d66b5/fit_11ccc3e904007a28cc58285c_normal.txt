@@ -1,0 +1,44 @@
+fit_id: fit_11ccc3e904007a28cc58285c  UTC: 2026-11-15T14:31:51.250Z  target: West Virginia  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                       p1          p2          p3          p4         p5
+Nelder-Mead -1.718641e-07 -0.01493497  0.08545281   0.2690934  0.4695451
+BFGS        -2.987575e-02 -0.53139749 -0.01077440 -35.1069372 49.5960154
+                   p6         p7     value fevals gevals niter convcode kkt1
+Nelder-Mead  0.362132 -0.2194661 12.240869    502     NA    NA        1   NA
+BFGS        38.607626 16.3593497  8.943697     94     38    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.582
+BFGS          NA 2.556
+                      p1           p2            p3          p4        p5
+Nelder-Mead 0.0001511661 -0.001188195 -0.0005187368 0.029366344 0.5481435
+BFGS        0.0022857962  0.002311849  0.0001565106 0.002097274 0.5266913
+                   p6          p7     value fevals gevals niter convcode kkt1
+Nelder-Mead 0.4136617 0.007686554  8.315775    501     NA    NA        1   NA
+BFGS        0.3979412 0.068377086 10.258795     72      3    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.809
+BFGS          NA 0.346
+
+ Equal weight loss is: 8.943697 
+
+ Regression Loss is: 8.315775 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 8.315775 
+
+solution.v:
+ 0.0001510579 0.001187345 0.0005183656 0.02934533 0.5477512 0.4133657 0.007681054 
+
+solution.w:
+ 1.26059e-05 0.176319 2.7095e-06 1.4901e-06 0.2634471 2.9235e-06 2.0121e-06 0.1541397 2.2933e-06 0.2468965 4.1454e-06 2.5738e-06 8.758e-07 2.2334e-06 0.01443163 4.7846e-06 6.0626e-06 1.9301e-06 2.581e-06 3.6422e-06 4.3315e-06 8.289e-07 3.1625e-06 0.01118747 2.4316e-06 1.7053e-06 1.8079e-06 2.5601e-06 9.1066e-06 1.4356e-06 6.9598e-06 1.445e-06 1.8727e-06 0.1334807 1.8365e-06 8.16e-07 3.4362e-06 1.3098e-06 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

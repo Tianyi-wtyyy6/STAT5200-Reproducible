@@ -1,0 +1,363 @@
+Fit,Target,Method,Status,Retry
+484290afce83,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+e47d345b2e81,California,SCM_OUTCOME,solved,0
+bb7fd789a5a6,California,DID,analytic,0
+1ce153af691d,California,SCM_OUTCOME,solved,0
+89d47e75792d,California,DID,analytic,0
+1aec76a63e97,California,SCM_OUTCOME,solved,0
+cf0215a525a9,California,DID,analytic,0
+1985f1de994c,Alabama,SCM_ADH,Synth BFGS convcode 1,0
+84b77831ecb2,Alabama,SCM_OUTCOME,solved,0
+749518a12849,Alabama,DID,analytic,0
+ec07db3f5472,Arkansas,SCM_ADH,Synth BFGS convcode 0,0
+b1c988204fe7,Arkansas,SCM_OUTCOME,solved,0
+c28f116312a9,Arkansas,DID,analytic,0
+3ed6ef721ad8,Colorado,SCM_ADH,Synth BFGS convcode 0,0
+bb40d906b834,Colorado,SCM_OUTCOME,solved,0
+887b17947024,Colorado,DID,analytic,0
+f141ef5b5dc3,Connecticut,SCM_ADH,Synth BFGS convcode 0,0
+2a9157fb1a4c,Connecticut,SCM_OUTCOME,solved,0
+e954ca098e7b,Connecticut,DID,analytic,0
+4b5d01219160,Delaware,SCM_ADH,Synth BFGS convcode 0,0
+85d863e18dc4,Delaware,SCM_OUTCOME,solved,0
+bb8d01a0cf25,Delaware,DID,analytic,0
+02e6ed929ea4,Georgia,SCM_ADH,Synth BFGS convcode 0,0
+49e6bc22e1e6,Georgia,SCM_OUTCOME,solved,0
+f98e796be84f,Georgia,DID,analytic,0
+321aafe2c46d,Idaho,SCM_ADH,Synth BFGS convcode 0,0
+3b888bacd50c,Idaho,SCM_OUTCOME,solved,0
+d4e91a4147f1,Idaho,DID,analytic,0
+fe347c128ce9,Illinois,SCM_ADH,Synth BFGS convcode 0,0
+0616fee3a7b6,Illinois,SCM_OUTCOME,solved,0
+fab5def64c20,Illinois,DID,analytic,0
+137aaf14af7a,Indiana,SCM_ADH,Synth BFGS convcode 0,0
+c7e79fafc6c7,Indiana,SCM_OUTCOME,solved,0
+4dade658ece9,Indiana,DID,analytic,0
+51ebe482b975,Iowa,SCM_ADH,Synth Nelder-Mead convcode 0,0
+2b4dc8eba49f,Iowa,SCM_OUTCOME,solved,0
+d8247d6e80b5,Iowa,DID,analytic,0
+c028793a98a1,Kansas,SCM_ADH,Synth BFGS convcode 0,0
+c8b4a8d2ca74,Kansas,SCM_OUTCOME,solved,0
+5b0703c5cb1c,Kansas,DID,analytic,0
+9e768a6c7cba,Kentucky,SCM_ADH,Synth Nelder-Mead convcode 1,0
+9b4d348de7a8,Kentucky,SCM_OUTCOME,solved,0
+b53055291eca,Kentucky,DID,analytic,0
+7691b57a107b,Louisiana,SCM_ADH,Synth BFGS convcode 0,0
+3035449eaaad,Louisiana,SCM_OUTCOME,solved,0
+1769895239b1,Louisiana,DID,analytic,0
+9f03c8cd1b29,Maine,SCM_ADH,Synth BFGS convcode 0,0
+6b495b4e4e31,Maine,SCM_OUTCOME,solved,0
+938886acc554,Maine,DID,analytic,0
+b9404ce542c4,Minnesota,SCM_ADH,Synth BFGS convcode 0,0
+8bf66cf0d504,Minnesota,SCM_OUTCOME,solved,0
+a801db381ba2,Minnesota,DID,analytic,0
+0d500cb32f72,Mississippi,SCM_ADH,Synth Nelder-Mead convcode 1,0
+791315663245,Mississippi,SCM_OUTCOME,solved,0
+cc01fc537b0a,Mississippi,DID,analytic,0
+e8d3e10fe5f0,Missouri,SCM_ADH,Synth BFGS convcode 0,0
+861ca3a0905f,Missouri,SCM_OUTCOME,solved,0
+5183712fcc0f,Missouri,DID,analytic,0
+a875edb5a082,Montana,SCM_ADH,Synth BFGS convcode 0,0
+034dca3d2212,Montana,SCM_OUTCOME,solved,0
+e5bbb8351897,Montana,DID,analytic,0
+4c8fd404ddaa,Nebraska,SCM_ADH,Synth Nelder-Mead convcode 1,0
+4b0d44c339f0,Nebraska,SCM_OUTCOME,solved,0
+22dc1fff3fda,Nebraska,DID,analytic,0
+092da5beca6a,Nevada,SCM_ADH,Synth BFGS convcode 0,0
+a36b57c9a5f3,Nevada,SCM_OUTCOME,solved,0
+7d49ed8358b8,Nevada,DID,analytic,0
+d984ed488a82,New Hampshire,SCM_ADH,Synth BFGS convcode 0,0
+a972bbc0dad3,New Hampshire,SCM_OUTCOME,solved,0
+b41631e430c3,New Hampshire,DID,analytic,0
+b1346eaabea7,New Mexico,SCM_ADH,Synth BFGS convcode 0,0
+d3ceb16eadf9,New Mexico,SCM_OUTCOME,solved,0
+ababe87e82ee,New Mexico,DID,analytic,0
+85866dc911ec,North Carolina,SCM_ADH,Synth Nelder-Mead convcode 1,0
+0d9d0ce04c30,North Carolina,SCM_OUTCOME,solved,0
+35c0013c3b70,North Carolina,DID,analytic,0
+7d9115097933,North Dakota,SCM_ADH,Synth Nelder-Mead convcode 1,0
+4b210c43ae09,North Dakota,SCM_OUTCOME,solved,0
+665a2a01a80b,North Dakota,DID,analytic,0
+a55593eb1ad7,Ohio,SCM_ADH,Synth Nelder-Mead convcode 1,0
+cc389c877b9e,Ohio,SCM_OUTCOME,solved,0
+aa28227718d5,Ohio,DID,analytic,0
+e0827e3f49be,Oklahoma,SCM_ADH,Synth Nelder-Mead convcode 1,0
+9ba02a289789,Oklahoma,SCM_OUTCOME,solved,0
+e4720c21544b,Oklahoma,DID,analytic,0
+3d444954786b,Pennsylvania,SCM_ADH,Synth Nelder-Mead convcode 10,0
+11cad033f9fc,Pennsylvania,SCM_OUTCOME,solved,0
+0d539cafd76c,Pennsylvania,DID,analytic,0
+9111d95be31f,Rhode Island,SCM_ADH,Synth BFGS convcode 0,0
+92e56f3aa1ea,Rhode Island,SCM_OUTCOME,solved,0
+dac0a2ac7c89,Rhode Island,DID,analytic,0
+28aa6dd1224d,South Carolina,SCM_ADH,Synth Nelder-Mead convcode 1,0
+a4755e09f30b,South Carolina,SCM_OUTCOME,solved,0
+d0d52dcef30a,South Carolina,DID,analytic,0
+2df252d1dd2a,South Dakota,SCM_ADH,Synth BFGS convcode 0,0
+18dd7e640a95,South Dakota,SCM_OUTCOME,solved,0
+ae2ff8a6c29b,South Dakota,DID,analytic,0
+39d6d159760a,Tennessee,SCM_ADH,Synth BFGS convcode 0,0
+d0e8c10691c0,Tennessee,SCM_OUTCOME,solved,0
+6fc0e491a963,Tennessee,DID,analytic,0
+bbe74290ea3f,Texas,SCM_ADH,Synth Nelder-Mead convcode 1,0
+5c40fbbb1992,Texas,SCM_OUTCOME,solved,0
+318c2c471309,Texas,DID,analytic,0
+43c0dfffc210,Utah,SCM_ADH,Synth Nelder-Mead convcode 0,0
+3d1ecddd1adf,Utah,SCM_OUTCOME,solved,0
+4ee09e59785b,Utah,DID,analytic,0
+ecccde36f9d7,Vermont,SCM_ADH,Synth BFGS convcode 0,0
+87c1f82448a5,Vermont,SCM_OUTCOME,solved,0
+3bfc6afa53e2,Vermont,DID,analytic,0
+1f5b80c4025d,Virginia,SCM_ADH,Synth BFGS convcode 0,0
+f4cf9ed94300,Virginia,SCM_OUTCOME,solved,0
+47ce1799e092,Virginia,DID,analytic,0
+8cfdcd700912,West Virginia,SCM_ADH,Synth Nelder-Mead convcode 1,0
+8a1a1b774897,West Virginia,SCM_OUTCOME,solved,0
+107b77ae6ed6,West Virginia,DID,analytic,0
+e11e063bd4ce,Wisconsin,SCM_ADH,Synth BFGS convcode 0,0
+5870c3975a7a,Wisconsin,SCM_OUTCOME,solved,0
+43dccfa5fc0f,Wisconsin,DID,analytic,0
+cac96485507b,Wyoming,SCM_ADH,Synth BFGS convcode 0,0
+276056f81600,Wyoming,SCM_OUTCOME,solved,0
+2a3dab74df47,Wyoming,DID,analytic,0
+3f0b8b10ecea,Alabama,SCM_ADH,Synth BFGS convcode 0,0
+1bfb36155a3d,Alabama,SCM_OUTCOME,solved,0
+fe0d8117ce42,Alabama,DID,analytic,0
+49b3dcba243f,Arkansas,SCM_ADH,Synth Nelder-Mead convcode 1,0
+ba01b6be523b,Arkansas,SCM_OUTCOME,solved,0
+f05034caf180,Arkansas,DID,analytic,0
+23d0b842d5f1,Colorado,SCM_ADH,Synth BFGS convcode 0,0
+7061640136a1,Colorado,SCM_OUTCOME,solved,0
+60dc5effa4f6,Colorado,DID,analytic,0
+e1345dabc67e,Connecticut,SCM_ADH,Synth Nelder-Mead convcode 0,0
+3860d9e851ca,Connecticut,SCM_OUTCOME,solved,0
+393b469b6d11,Connecticut,DID,analytic,0
+4517ce0f3a0e,Delaware,SCM_ADH,Synth BFGS convcode 0,0
+b44dad1a6b00,Delaware,SCM_OUTCOME,solved,0
+3998a141e228,Delaware,DID,analytic,0
+2f7f5b9bbb3b,Georgia,SCM_ADH,Synth Nelder-Mead convcode 1,0
+42a30e1fbe38,Georgia,SCM_OUTCOME,solved,0
+0eae3ff23c68,Georgia,DID,analytic,0
+cc2aaa2bbd52,Idaho,SCM_ADH,Synth BFGS convcode 0,0
+1d185348e037,Idaho,SCM_OUTCOME,solved,0
+c1b07e38c560,Idaho,DID,analytic,0
+d36d52a43040,Illinois,SCM_ADH,Synth BFGS convcode 0,0
+272eee011b78,Illinois,SCM_OUTCOME,solved,0
+61bfcf421006,Illinois,DID,analytic,0
+24e9306aae26,Indiana,SCM_ADH,Synth Nelder-Mead convcode 1,0
+e85bf7e9a425,Indiana,SCM_OUTCOME,solved,0
+b7c7e99b3c0b,Indiana,DID,analytic,0
+1aa6619f1ad1,Iowa,SCM_ADH,Synth Nelder-Mead convcode 0,0
+8dbca845d326,Iowa,SCM_OUTCOME,solved,0
+d2391e43e03f,Iowa,DID,analytic,0
+a2ae364e0415,Kansas,SCM_ADH,Synth Nelder-Mead convcode 1,0
+cd9a48293b88,Kansas,SCM_OUTCOME,solved,0
+04b5cc9f222f,Kansas,DID,analytic,0
+112397d9b3e0,Kentucky,SCM_ADH,Synth BFGS convcode 0,0
+18d3557e6919,Kentucky,SCM_OUTCOME,solved,0
+b91311e34bfa,Kentucky,DID,analytic,0
+aabd942895f9,Louisiana,SCM_ADH,Synth BFGS convcode 0,0
+a0f0599895f8,Louisiana,SCM_OUTCOME,solved,0
+bf432bc33826,Louisiana,DID,analytic,0
+1a52ff682e21,Maine,SCM_ADH,Synth BFGS convcode 0,0
+4dbdeaf339fb,Maine,SCM_OUTCOME,solved,0
+158790453925,Maine,DID,analytic,0
+a82fc34bb459,Minnesota,SCM_ADH,Synth BFGS convcode 0,0
+d35516bf20ca,Minnesota,SCM_OUTCOME,solved,0
+e8fe78453fb1,Minnesota,DID,analytic,0
+48eb3f8a566b,Mississippi,SCM_ADH,Synth BFGS convcode 0,0
+10978ec76aef,Mississippi,SCM_OUTCOME,solved,0
+a43a6ea55b6b,Mississippi,DID,analytic,0
+0ccf902323f1,Missouri,SCM_ADH,Synth BFGS convcode 1,0
+dd4e4237b59c,Missouri,SCM_OUTCOME,solved,0
+0b43ad99e20f,Missouri,DID,analytic,0
+4604b82b1f52,Montana,SCM_ADH,Synth BFGS convcode 0,0
+7d486bdfbb00,Montana,SCM_OUTCOME,solved,0
+ca912656e96c,Montana,DID,analytic,0
+813678c9329e,Nebraska,SCM_ADH,Synth Nelder-Mead convcode 1,0
+88aacfd85a0c,Nebraska,SCM_OUTCOME,solved,0
+11ba76e9e55c,Nebraska,DID,analytic,0
+dfe85e7ae9a8,Nevada,SCM_ADH,Synth Nelder-Mead convcode 1,0
+419c6dfac695,Nevada,SCM_OUTCOME,solved,0
+3c8109d1d465,Nevada,DID,analytic,0
+4795043f666b,New Hampshire,SCM_ADH,Synth BFGS convcode 0,0
+f93ece7e6b50,New Hampshire,SCM_OUTCOME,solved,0
+82775682a5e1,New Hampshire,DID,analytic,0
+874d4e7d0b11,New Mexico,SCM_ADH,Synth BFGS convcode 0,0
+ac4402334793,New Mexico,SCM_OUTCOME,solved,0
+0bd1d174a43f,New Mexico,DID,analytic,0
+3a48004a18da,North Carolina,SCM_ADH,Synth Nelder-Mead convcode 10,0
+ebc7d95c1f61,North Carolina,SCM_OUTCOME,solved,0
+5139c0c389b2,North Carolina,DID,analytic,0
+da36f9785c53,North Dakota,SCM_ADH,Synth Nelder-Mead convcode 1,0
+39da0ec50cb7,North Dakota,SCM_OUTCOME,solved,0
+554c58d26d84,North Dakota,DID,analytic,0
+127f53e8b885,Ohio,SCM_ADH,Synth Nelder-Mead convcode 1,0
+2627ab02bf02,Ohio,SCM_OUTCOME,solved,0
+be92124161f3,Ohio,DID,analytic,0
+6f48b1180b28,Oklahoma,SCM_ADH,Synth Nelder-Mead convcode 1,0
+1f3e53cf57cb,Oklahoma,SCM_OUTCOME,solved,0
+a1986a06aedb,Oklahoma,DID,analytic,0
+f216ab6fce23,Pennsylvania,SCM_ADH,Synth Nelder-Mead convcode 1,0
+a00b254c30b2,Pennsylvania,SCM_OUTCOME,solved,0
+00d9b2dfb65e,Pennsylvania,DID,analytic,0
+2b1ed358f5c3,Rhode Island,SCM_ADH,Synth BFGS convcode 0,0
+ab97c035b57a,Rhode Island,SCM_OUTCOME,solved,0
+245bfb83b496,Rhode Island,DID,analytic,0
+14a61f29c332,South Carolina,SCM_ADH,Synth Nelder-Mead convcode 1,0
+b93b28f06c62,South Carolina,SCM_OUTCOME,solved,0
+d335eaeb4e29,South Carolina,DID,analytic,0
+e133f4acb092,South Dakota,SCM_ADH,Synth BFGS convcode 0,0
+7e2ebe7c4f98,South Dakota,SCM_OUTCOME,solved,0
+4374b49019cf,South Dakota,DID,analytic,0
+5abfadaf6165,Tennessee,SCM_ADH,Synth Nelder-Mead convcode 1,0
+d432950b87ab,Tennessee,SCM_OUTCOME,solved,0
+7fba6b3f3e2e,Tennessee,DID,analytic,0
+b087f26ba800,Texas,SCM_ADH,Synth Nelder-Mead convcode 1,0
+ce93025e0341,Texas,SCM_OUTCOME,solved,0
+c43fc8c6734c,Texas,DID,analytic,0
+b9e638edb90f,Utah,SCM_ADH,Synth Nelder-Mead convcode 0,0
+51bc075d5a53,Utah,SCM_OUTCOME,solved,0
+5c25792989a4,Utah,DID,analytic,0
+522120d6bdf5,Vermont,SCM_ADH,Synth BFGS convcode 0,0
+cf5dc112ffe5,Vermont,SCM_OUTCOME,solved,0
+8f5f3eb87e8b,Vermont,DID,analytic,0
+39bd977d39bf,Virginia,SCM_ADH,Synth Nelder-Mead convcode 0,0
+0cfda2573b1c,Virginia,SCM_OUTCOME,solved,0
+a13673769e3d,Virginia,DID,analytic,0
+11ccc3e90400,West Virginia,SCM_ADH,Synth Nelder-Mead convcode 1,0
+85eb56ea509d,West Virginia,SCM_OUTCOME,solved,0
+1383a1d9ca60,West Virginia,DID,analytic,0
+9884eb9d473f,Wisconsin,SCM_ADH,Synth BFGS convcode 0,0
+857b9156c1ed,Wisconsin,SCM_OUTCOME,solved,0
+28159e8ac852,Wisconsin,DID,analytic,0
+8a54d6bd88b5,Wyoming,SCM_ADH,Synth Nelder-Mead convcode 1,0
+40f3876cf76d,Wyoming,SCM_OUTCOME,solved,0
+cb98310edfd2,Wyoming,DID,analytic,0
+0badd9af0fb8,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+bb2c77fe1c5d,California,SCM_OUTCOME,solved,0
+94ec91b1f54f,California,DID,analytic,0
+74de6de65280,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+85e20c009b7e,California,SCM_OUTCOME,solved,0
+bc23e6d5decc,California,DID,analytic,0
+5e5234bf670b,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+8a41d61aa97a,California,SCM_OUTCOME,solved,0
+963cbba92af6,California,DID,analytic,0
+b43f49297c36,California,SCM_ADH,Synth Nelder-Mead convcode 10,0
+53a45c1270bf,California,SCM_OUTCOME,solved,0
+0602a5e0b2b3,California,DID,analytic,0
+f93e2d70ed7a,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+7fa1b4494ad5,California,SCM_OUTCOME,solved,0
+af7d6e2c485d,California,DID,analytic,0
+d24dfbd189a0,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+097080a66a07,California,SCM_OUTCOME,solved,0
+737c72dd0630,California,DID,analytic,0
+db9f37b82781,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+1abbb00d1dae,California,SCM_OUTCOME,solved,0
+f56f4a1a0a60,California,DID,analytic,0
+04af51835f3b,California,SCM_ADH,Synth BFGS convcode 0,0
+bcff329a00aa,California,SCM_OUTCOME,solved,0
+5b3f33fe78bf,California,DID,analytic,0
+b3fd71ba2770,California,SCM_ADH,Synth Nelder-Mead convcode 10,0
+6db017ef65ca,California,SCM_OUTCOME,solved,0
+a520c9403a59,California,DID,analytic,0
+0dcac4b7bf2e,California,SCM_ADH,Synth Nelder-Mead convcode 10,0
+7177e861b198,California,SCM_OUTCOME,solved,0
+b57681687a2a,California,DID,analytic,0
+2f1db181eefa,California,SCM_ADH,Synth BFGS convcode 0,0
+05832fed2cba,California,SCM_OUTCOME,solved,0
+f91401ec945b,California,DID,analytic,0
+c1c1a60d15f3,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+036243130324,California,SCM_OUTCOME,solved,0
+c5450831eff4,California,DID,analytic,0
+4318ef93dd32,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+55f132133891,California,SCM_OUTCOME,solved,0
+809cce6d1e69,California,DID,analytic,0
+b4b1d3310fe8,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+a77448a9b9d8,California,SCM_OUTCOME,solved,0
+d0b3a3a090a7,California,DID,analytic,0
+d14cbcc6a10a,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+89046eb2e283,California,SCM_OUTCOME,solved,0
+dfa7ac459433,California,DID,analytic,0
+1692ed74b2f9,California,SCM_ADH,Synth BFGS convcode 0,0
+436c7103b91a,California,SCM_OUTCOME,solved,0
+99908e466c16,California,DID,analytic,0
+e87e8c31a1e7,California,SCM_ADH,Synth Nelder-Mead convcode 10,0
+512b65433f6a,California,SCM_OUTCOME,solved,0
+91cfedf836ef,California,DID,analytic,0
+4af4b4b51c3e,California,SCM_ADH,Synth BFGS convcode 0,0
+22c85384e938,California,SCM_OUTCOME,solved,0
+26df8f40da79,California,DID,analytic,0
+7a7ef8ee2b83,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+7679ad908984,California,SCM_OUTCOME,solved,0
+5eed07ab07f6,California,DID,analytic,0
+12a8529ee0df,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+da27ef0802bb,California,SCM_OUTCOME,solved,0
+ef173282e299,California,DID,analytic,0
+2f37e66b81cb,California,SCM_ADH,Synth BFGS convcode 0,0
+707cb009d0a8,California,SCM_OUTCOME,solved,0
+5ae4de25f77e,California,DID,analytic,0
+317b1824c236,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+7d109e17ffdc,California,SCM_OUTCOME,solved,0
+4d38108659df,California,DID,analytic,0
+de096f43ef6f,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+d6d08b10cf13,California,SCM_OUTCOME,solved,0
+069f8cc588f2,California,DID,analytic,0
+e925f7a69a3f,California,SCM_ADH,Synth Nelder-Mead convcode 10,0
+041a18b45cb0,California,SCM_OUTCOME,solved,0
+6d57d277504b,California,DID,analytic,0
+362d2ef7d52c,California,SCM_ADH,Synth BFGS convcode 0,0
+59315f7a9463,California,SCM_OUTCOME,solved,0
+1a3668572cdf,California,DID,analytic,0
+3dad9bb49e29,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+32fb275deb4e,California,SCM_OUTCOME,solved,0
+7ea235c1a7e9,California,DID,analytic,0
+5c66a0b1a143,California,SCM_ADH,Synth Nelder-Mead convcode 0,0
+b50856214d05,California,SCM_OUTCOME,solved,0
+a39549e6e18d,California,DID,analytic,0
+2f43b70b451f,California,SCM_ADH,Synth Nelder-Mead convcode 10,0
+d61dcf7266a8,California,SCM_OUTCOME,solved,0
+fad9435cbfc6,California,DID,analytic,0
+cb5650b972d1,California,SCM_ADH,Synth BFGS convcode 0,0
+d649df20e981,California,SCM_OUTCOME,solved,0
+12f8ce403504,California,DID,analytic,0
+b8feec7e2bd6,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+2a5cac7b99e7,California,SCM_OUTCOME,solved,0
+ff131dd8bf00,California,DID,analytic,0
+1d881b6490e0,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+fdebef308c4d,California,SCM_OUTCOME,solved,0
+879b76a7880c,California,DID,analytic,0
+2038608ba94f,California,SCM_ADH,Synth BFGS convcode 0,0
+a3189310159d,California,SCM_OUTCOME,solved,0
+b016fab1b9d7,California,DID,analytic,0
+0f92868800d3,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+7c34edf7e245,California,SCM_OUTCOME,solved,0
+190a7de822fb,California,DID,analytic,0
+ca7988e47434,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+82ae6455bc3c,California,SCM_OUTCOME,solved,0
+8d830db94c26,California,DID,analytic,0
+e1cffb0ba7c0,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+6ae0dc40df67,California,SCM_OUTCOME,solved,0
+ce86b92a9dfc,California,DID,analytic,0
+78e5d387e2b6,California,SCM_ADH,Synth Nelder-Mead convcode 0,0
+ff0efa5b988b,California,SCM_OUTCOME,solved,0
+86693e0df35c,California,DID,analytic,0
+6abaddb6e12e,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+1f265d5625f7,California,SCM_OUTCOME,solved,0
+f9a5c6122c51,California,DID,analytic,0
+1a51600786ce,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+367402825df6,California,SCM_OUTCOME,solved,0
+4072278bb03e,California,DID,analytic,0
+b7cbae308d8e,California,SCM_OUTCOME,solved,0
+3b0ee36dc28e,California,DID,analytic,0
+3b4ebaa82210,California,SCM_OUTCOME,solved,0
+5fe3ab54b7c6,California,DID,analytic,0
+e7ba21e3d207,California,SCM_ADH,Synth Nelder-Mead convcode 0,0
+95332db598ca,California,SCM_ADH,Synth BFGS convcode 0,0
+8893933ed5a8,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+19f07f6828bf,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+6a8ea81b25b2,California,SCM_ADH,Synth BFGS convcode 0,0
+0dadbff00f75,California,SCM_ADH,Synth Nelder-Mead convcode 10,0
+ed4bfd594acb,California,SCM_ADH,Synth Nelder-Mead convcode 1,0
+c74836535f4a,California,SCM_OUTCOME,solved,0
+23e534102882,California,DID,analytic,0

@@ -1,0 +1,7 @@
+Case,Method,RMSE,MAE,Mean error,Status
+CA_pre_1,SCM_ADH,NA,NA,NA,skipped
+CA_pre_1,SCM_OUTCOME,0.94,0.87,-0.39,success
+CA_pre_1,DID,10.50,10.48,-10.48,success
+CA_pre_2,SCM_ADH,NA,NA,NA,skipped
+CA_pre_2,SCM_OUTCOME,6.64,6.13,-6.13,success
+CA_pre_2,DID,8.86,8.74,-8.74,success

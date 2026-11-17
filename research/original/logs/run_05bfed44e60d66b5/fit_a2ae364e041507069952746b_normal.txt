@@ -1,0 +1,41 @@
+fit_id: fit_a2ae364e041507069952746b  UTC: 2026-11-15T14:28:20.864Z  target: Kansas  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                    p1           p2          p3        p4        p5        p6
+Nelder-Mead  0.1481009  0.000179525  0.13635241 0.1748885 0.2046704 0.1778083
+BFGS        -1.7642775 -0.032208706 -0.01134393 6.3060404 7.7451923 5.9896780
+                   p7    value fevals gevals niter convcode kkt1 kkt2 xtime
+Nelder-Mead 0.1256361 15.41483    501     NA    NA        1   NA   NA 1.719
+BFGS        1.1783662 14.94210    149     26    NA        0   NA   NA 2.104
+                       p1            p2            p3         p4        p5
+Nelder-Mead  0.0076221637 -1.681047e-05 -1.241499e-06 0.04247479 0.5388689
+BFGS        -0.0001420938 -3.891580e-01 -1.226833e+00 3.17522575 0.5572045
+                   p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.3656673 0.07956148 14.50286    501     NA    NA        1   NA
+BFGS        0.4179319 0.07684330 14.80033     77      9    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 2.054
+BFGS          NA 0.629
+
+ Equal weight loss is: 14.9421 
+
+ Regression Loss is: 14.50286 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 14.50286 
+
+solution.v:
+ 0.007370015 1.62544e-05 1.2004e-06 0.04106968 0.5210426 0.3535707 0.07692951 
+
+solution.w:
+ 0.004131907 0.004461769 0.0003763395 0.02770685 0.2285825 0.002615258 0.004919815 0.003461733 0.006525586 0.002199876 0.004140757 0.0003749115 0.003543574 0.002524084 0.005031267 0.002894945 0.004174766 0.003263814 0.00417603 0.001160451 0.001099092 0.002938928 0.0003265216 0.004831677 0.005234385 0.2736802 0.005506267 0.002058875 0.003698178 0.003710689 0.004176586 0.004615544 0.141274 0.002663591 0.2185907 0.00258829 0.002282773 0.004457497 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

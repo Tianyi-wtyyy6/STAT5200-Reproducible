@@ -1,0 +1,23 @@
+{
+  "reference_run_id": "run_2f629de521a827b8",
+  "prepared_utc": "2026-11-17T00:53:16.758617+00:00",
+  "purpose": "Teacher-reproducible computation without document/report assets",
+  "unchanged_estimation_modules": [
+    "R/common.R",
+    "R/data.R",
+    "R/models.R",
+    "R/experiments.R",
+    "R/checks.R",
+    "R/summaries.R",
+    "R/figures.R"
+  ],
+  "referenced_fit_objects": 362,
+  "referenced_prediction_objects": 366,
+  "adaptations": [
+    "Driver omits document stage",
+    "Numeric table derivations extracted into R/tables.R",
+    "Cold-run and comparison helpers added",
+    "Document-only outputs/diagnostics excluded"
+  ],
+  "validation": "provenance/package_validation/VALIDATION_SUMMARY.json"
+}

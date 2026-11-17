@@ -1,0 +1,8 @@
+Run: run_f11baa3a3fee35a5  Stage: main  UTC: 2026-11-15T14:16:21.874Z 
+[1/375] CA_main SCM_ADH (main)
+FAILED: All numerical attempts failed: default method not implemented for type 'list' 
+[2/375] CA_main SCM_OUTCOME (main)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[3/375] CA_main DID (main)
+  pre RMSPE 7.1572; evaluation mean gap -27.3491; cached=FALSE
+Stage completed at 2026-11-15T14:16:39.985Z 

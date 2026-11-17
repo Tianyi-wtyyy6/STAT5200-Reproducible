@@ -1,0 +1,44 @@
+fit_id: fit_bbe74290ea3f7c4b421ff951  UTC: 2026-11-15T14:25:58.576Z  target: Texas  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                     p1         p2         p3           p4         p5
+Nelder-Mead 0.002937003  0.1859838  0.2684803 -0.001220184  0.1749546
+BFGS        1.742735999 11.6470489 39.2950827 -0.011809084 -2.6896447
+                    p6          p7    value fevals gevals niter convcode kkt1
+Nelder-Mead  0.2718081   0.1120846 7.360084    502     NA    NA        1   NA
+BFGS        22.1223355 -27.6842093 9.482194    153     58    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.882
+BFGS          NA 3.122
+                     p1           p2            p3          p4        p5
+Nelder-Mead 0.002254938 0.0018392531 -0.0012803746 0.002077166 0.5669286
+BFGS        0.004240180 0.0005745996 -0.0002968887 0.002645008 0.5302740
+                   p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.4153261 0.02659766 4.731104    501     NA    NA        1   NA
+BFGS        0.5602654 0.03603572 5.352927    103     14    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.901
+BFGS          NA 0.935
+
+ Equal weight loss is: 7.360084 
+
+ Regression Loss is: 4.731104 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 4.731104 
+
+solution.v:
+ 0.002218764 0.001809747 0.001259834 0.002043843 0.5578336 0.4086632 0.02617097 
+
+solution.w:
+ 1.4174e-06 0.05652291 2.418e-07 0.0001609757 1.748e-07 5.935e-07 2.081e-07 2.734e-07 1.13e-07 4.305e-07 3.09e-07 6.57e-08 0.2017781 1.752e-07 0.1694317 1.055e-06 2.124e-07 2.885e-07 5.18e-07 7.85e-08 4.78e-08 6.876e-07 6.35e-08 0.2618823 5.494e-07 2.312e-07 0.3100745 1.374e-07 3.057e-07 3.953e-07 7.014e-07 4.364e-07 1.379e-07 1.377e-07 2.29e-07 0.0001392749 1.294e-07 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

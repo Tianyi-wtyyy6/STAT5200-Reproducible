@@ -1,0 +1,15 @@
+Run: run_05bfed44e60d66b5  Stage: checks  UTC: 2026-11-15T14:20:15.737Z 
+CHECK data_contract all PASS 39 x 31; unique keys; complete outcome; disjoint target/donors; first treatment 1989 
+CHECK main_post_label_leakage SCM_ADH PASS Both fits and predictions rerun without cache; only post labels changed; expected gap change verified 
+CHECK weights_matrix_objective SCM_ADH PASS Donor/year order, simplex, matrix prediction and saved original-scale objective 
+CHECK main_post_label_leakage SCM_OUTCOME PASS Both fits and predictions rerun without cache; only post labels changed; expected gap change verified 
+CHECK weights_matrix_objective SCM_OUTCOME PASS Donor/year order, simplex, matrix prediction and saved original-scale objective 
+CHECK qp_feasible_equal_mean_bound SCM_OUTCOME PASS SCM loss no worse than unshifted equal-donor mean; PSD Hessian; no ridge 
+CHECK main_post_label_leakage DID PASS Both fits and predictions rerun without cache; only post labels changed; expected gap change verified 
+CHECK weights_matrix_objective DID PASS Donor/year order, simplex, matrix prediction and saved original-scale objective 
+CHECK validation_label_isolation SCM_OUTCOME PASS CA_pre_1 rebuilt/refitted/repredicted with mutated held-out labels, cache disabled; score changed 
+CHECK validation_label_isolation DID PASS CA_pre_1 rebuilt/refitted/repredicted with mutated held-out labels, cache disabled; score changed 
+CHECK validation_label_isolation SCM_ADH PASS Clean Colorado case; train 1970-1988, predict 1989-2000; no-cache original and mutated refits 
+CHECK did_twfe_equivalence DID PASS Same balanced sample; static TWFE tau equals analytic average post gap 
+CHECK ratio_boundary_conventions all PASS Inf for near-zero pre/nonzero post; NA for both near-zero; no epsilon added 
+Stage completed at 2026-11-15T14:20:58.759Z 

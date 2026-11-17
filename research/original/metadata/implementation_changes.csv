@@ -1,0 +1,13 @@
+recorded_utc,phase,change,reason_and_scope
+2026-11-15T14:39:27.597957+00:00,before_first_fit,Data reference tolerance,Changed fixed-point CA reference tolerance from 1e-8 to 1e-5 because raw data retain float32 values; no data values changed
+2026-11-15T14:39:27.597977+00:00,implementation_run,Registry serialization,Cast jsonlite JSON optimizer descriptions to character before binding registry rows
+2026-11-15T14:39:27.597983+00:00,implementation_run,Synth API output representation,Flatten current release solution.v data-frame/list representation for finite checks and V export; no fitting objective or numerical parameters changed
+2026-11-15T14:39:27.597989+00:00,implementation_run,Predictor variance function,Qualify stats::var to prevent local predictor-variable name from being interpreted as a function
+2026-11-15T14:39:27.597995+00:00,implementation_run,Optimizer status disclosure,Record selected optimizer and convergence code; retain finite feasible pre-loss-selected solution with a visible warning
+2026-11-15T14:39:27.598001+00:00,post_experiment_engineering_review,Donor-pool provenance,Include target identity in pool ID to distinguish identical included donors with different exclusion reasons; fit inputs unchanged
+2026-11-15T14:39:27.598006+00:00,post_experiment_engineering_review,Derived-table provenance,Attach registry IDs and actual window metadata to derived comparison tables; estimates unchanged
+2026-11-15T14:39:27.598012+00:00,post_experiment_engineering_review,Reproducibility,"Atomic CSV replacement, statistical source snapshots, restored renv library detection; strictly matching fit cache reused"
+2026-11-15T14:52:39.866097+00:00,engineering_and_reporting_review,Metric interpretation metadata,Added explicit evaluation_role and gap-RMS aliases; true CA post gaps are never labeled counterfactual prediction errors; values and model inputs unchanged
+2026-11-15T14:52:39.866131+00:00,engineering_and_reporting_review,Published placebo counts,Added read/verified ADH Figures 5-7 eligible-count benchmarks for a complete comparison; no specification or filtering choice changed
+2026-11-15T14:52:39.866140+00:00,engineering_and_reporting_review,Figure checkpoint repair,"Initial full pipeline exited 143 during PNG rendering; completed numerical experiments preserved; per-figure fingerprints and garbage collection added, rendering resumed successfully"
+2026-11-15T14:52:39.866153+00:00,engineering_and_reporting_review,PDF page review,"Reduced state-atlas scale to preserve print margins, fixed bibliography pagination and empty supplement reference page"

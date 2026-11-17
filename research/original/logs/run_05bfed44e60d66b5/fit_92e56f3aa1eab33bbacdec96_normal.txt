@@ -1,0 +1,1 @@
+fit_id: fit_92e56f3aa1eab33bbacdec96  UTC: 2026-11-15T14:25:32.972Z  target: Rhode Island  method: SCM_OUTCOME 

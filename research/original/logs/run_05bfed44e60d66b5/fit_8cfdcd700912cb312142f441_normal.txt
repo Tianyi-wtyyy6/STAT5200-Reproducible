@@ -1,0 +1,44 @@
+fit_id: fit_8cfdcd700912cb312142f441  UTC: 2026-11-15T14:26:27.335Z  target: West Virginia  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                       p1            p2           p3          p4        p5
+Nelder-Mead  0.1335170210 -9.622059e-10  0.112453226   0.1462898 0.2145792
+BFGS        -0.0002916482 -3.973013e+00 -0.002587128 -12.3668362 8.6303707
+                  p6         p7     value fevals gevals niter convcode kkt1
+Nelder-Mead 0.156126 0.21702751 25.860731    342     NA    NA        0   NA
+BFGS        8.577882 0.05608898  8.976998    134     34    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.391
+BFGS          NA 2.326
+                      p1           p2            p3         p4        p5
+Nelder-Mead 0.0003389642 -0.002728191 -0.0003238460 0.01496758 0.5442096
+BFGS        0.0021640186  0.002343040  0.0001682597 0.00215462 0.5306382
+                   p6         p7     value fevals gevals niter convcode kkt1
+Nelder-Mead 0.4019462 0.08192158  8.811686    502     NA    NA        1   NA
+BFGS        0.3949792 0.06735187 10.276742     71      3    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.984
+BFGS          NA 0.333
+
+ Equal weight loss is: 8.976998 
+
+ Regression Loss is: 8.811686 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 8.811686 
+
+solution.v:
+ 0.0003239226 0.002607127 0.0003094752 0.01430338 0.5200601 0.3841097 0.07828629 
+
+solution.w:
+ 2.2096e-06 0.1146027 7.18e-08 0.2216047 1.278e-07 2.27e-07 8.305e-07 8.94e-08 0.243615 1.829e-07 1.062e-07 5.6e-09 5.23e-08 0.2090121 2.185e-07 2.631e-07 1.799e-07 1.704e-07 3.869e-07 5.22e-08 6e-09 1.0244e-06 2.2e-09 8.07e-08 2.641e-07 3.13e-08 4.051e-07 2.4605e-06 1.273e-07 4.209e-07 6.95949e-05 9.33e-08 0.1997035 4.07e-08 6.11e-08 0.01138213 3.31e-08 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

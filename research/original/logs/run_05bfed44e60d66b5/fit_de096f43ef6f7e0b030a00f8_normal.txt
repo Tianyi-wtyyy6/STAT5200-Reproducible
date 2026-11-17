@@ -1,0 +1,44 @@
+fit_id: fit_de096f43ef6f7e0b030a00f8  UTC: 2026-11-15T14:35:05.698Z  target: California  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                       p1        p2       p3           p4          p5
+Nelder-Mead -0.0005660681 0.3515597 0.184424  0.008976263   0.1214169
+BFGS         0.0363267634 0.8959696 4.443151 -7.860389941 -16.3212709
+                    p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead  0.1155128 0.05044469 3.286455    502     NA    NA        1   NA
+BFGS        14.1274326 5.63591211 3.278386     75     34    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.735
+BFGS          NA 1.633
+                       p1         p2            p3          p4        p5
+Nelder-Mead  0.0006294384 0.02434051 -0.0066419369 0.021243849 0.4883979
+BFGS        -0.0003003005 0.00245049  0.0003359631 0.002654758 0.4916231
+                   p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.4135671 0.07584564 3.193117    501     NA    NA        1   NA
+BFGS        0.4238188 0.07635928 3.527335     59      2    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.820
+BFGS          NA 0.291
+
+ Equal weight loss is: 3.278386 
+
+ Regression Loss is: 3.193117 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 3.193117 
+
+solution.v:
+ 0.0006107101 0.02361629 0.006444313 0.02061176 0.4738662 0.4012618 0.07358894 
+
+solution.w:
+ 1.46e-07 1.256e-07 0.1653406 0.06120672 1.548e-07 1.443e-07 0.0001217072 5.264e-07 1.451e-07 3.353e-07 3.146e-07 6.26e-08 1.421e-07 1.642e-07 4.803e-07 1.306e-07 1.702e-07 0.1977855 7.974e-07 0.2348874 5.22e-08 1.12665e-05 1.624e-07 1.789e-07 1.578e-07 3.367e-07 1.576e-07 1.207e-07 2.971e-07 1.332e-07 2.416e-07 0.3406398 1.315e-07 1.704e-07 1.905e-07 6.343e-07 1.987e-07 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

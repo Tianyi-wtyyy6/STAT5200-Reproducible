@@ -1,0 +1,62 @@
+Item,Published,Reproduced,Difference,Approx
+weight_Alabama,0.0000,0.0000,0.0000,FALSE
+weight_Arkansas,0.0000,0.0000,0.0000,FALSE
+weight_Colorado,0.1640,0.1488,-0.0152,FALSE
+weight_Connecticut,0.0690,0.0617,-0.0073,FALSE
+weight_Delaware,0.0000,0.0000,0.0000,FALSE
+weight_Georgia,0.0000,0.0000,0.0000,FALSE
+weight_Idaho,0.0000,0.0000,0.0000,FALSE
+weight_Illinois,0.0000,0.0000,0.0000,FALSE
+weight_Indiana,0.0000,0.0000,0.0000,FALSE
+weight_Iowa,0.0000,0.0000,0.0000,FALSE
+weight_Kansas,0.0000,0.0000,0.0000,FALSE
+weight_Kentucky,0.0000,0.0000,0.0000,FALSE
+weight_Louisiana,0.0000,0.0000,0.0000,FALSE
+weight_Maine,0.0000,0.0000,0.0000,FALSE
+weight_Minnesota,0.0000,0.0000,0.0000,FALSE
+weight_Mississippi,0.0000,0.0000,0.0000,FALSE
+weight_Missouri,0.0000,0.0000,0.0000,FALSE
+weight_Montana,0.1990,0.2088,0.0098,FALSE
+weight_Nebraska,0.0000,0.0000,0.0000,FALSE
+weight_Nevada,0.2340,0.2384,0.0044,FALSE
+weight_New Hampshire,0.0000,0.0000,0.0000,FALSE
+weight_New Mexico,0.0000,0.0004,0.0004,FALSE
+weight_North Carolina,0.0000,0.0000,0.0000,FALSE
+weight_North Dakota,0.0000,0.0000,0.0000,FALSE
+weight_Ohio,0.0000,0.0000,0.0000,FALSE
+weight_Oklahoma,0.0000,0.0000,0.0000,FALSE
+weight_Pennsylvania,0.0000,0.0000,0.0000,FALSE
+weight_Rhode Island,0.0000,0.0000,0.0000,FALSE
+weight_South Carolina,0.0000,0.0000,0.0000,FALSE
+weight_South Dakota,0.0000,0.0000,0.0000,FALSE
+weight_Tennessee,0.0000,0.0000,0.0000,FALSE
+weight_Texas,0.0000,0.0000,0.0000,FALSE
+weight_Utah,0.3340,0.3420,0.0080,FALSE
+weight_Vermont,0.0000,0.0000,0.0000,FALSE
+weight_Virginia,0.0000,0.0000,0.0000,FALSE
+weight_West Virginia,0.0000,0.0000,0.0000,FALSE
+weight_Wisconsin,0.0000,0.0000,0.0000,FALSE
+weight_Wyoming,0.0000,0.0000,0.0000,FALSE
+gap_2000,-26.0000,-25.5849,0.4151,TRUE
+mean_gap_1989_2000,-20.0000,-18.8456,1.1544,TRUE
+relative_reduction_pct,25.0000,23.7963,-1.2037,TRUE
+pre_mspe,3.0000,3.1662,0.1662,TRUE
+post_pre_mspe_ratio,130.0000,123.8701,-6.1299,TRUE
+classic_rank_fraction,0.0256,0.0256,0.0000,FALSE
+classic_eligible_donors_c20,34.0000,32.0000,-2.0000,FALSE
+classic_eligible_donors_c5,29.0000,28.0000,-1.0000,FALSE
+classic_eligible_donors_c2,19.0000,18.0000,-1.0000,FALSE
+real_lnincome,10.0800,10.0766,-0.0034,FALSE
+synthetic_lnincome,9.8600,9.8535,-0.0065,FALSE
+real_retprice,89.4200,89.4222,0.0022,FALSE
+synthetic_retprice,89.4100,89.3908,-0.0192,FALSE
+real_age15to24,17.4000,17.3532,-0.0468,FALSE
+synthetic_age15to24,17.4000,17.3605,-0.0395,FALSE
+real_beer,24.2800,24.2800,0.0000,FALSE
+synthetic_beer,24.2000,24.2225,0.0225,FALSE
+real_cigsale_1975,127.1000,127.1000,-0.0000,FALSE
+synthetic_cigsale_1975,126.9900,126.9914,0.0014,FALSE
+real_cigsale_1980,120.2000,120.2000,-0.0000,FALSE
+synthetic_cigsale_1980,120.4300,120.2205,-0.2095,FALSE
+real_cigsale_1988,90.1000,90.1000,-0.0000,FALSE
+synthetic_cigsale_1988,91.6200,91.3889,-0.2311,FALSE

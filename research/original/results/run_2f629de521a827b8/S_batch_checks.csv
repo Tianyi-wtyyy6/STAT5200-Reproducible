@@ -1,0 +1,6 @@
+check,status,detail
+planned_case_count,pass,Registry has 375 case-method specifications
+all_fit_constraints_and_objectives,pass,Max discrepancy: 3.872878018e-09
+all_outcome_qp_equal_mean_bound,pass,Max SCM minus equal-mean MSPE: -14.64656418
+clean_pool_excludes_CA,pass,"Clean donor-validation and placebo use 37 donors, never California"
+all_placebo_denominators,pass,Actual eligible donor count + 1; classic and clean IDs distinct

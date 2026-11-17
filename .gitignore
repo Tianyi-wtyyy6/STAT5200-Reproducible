@@ -1,0 +1,11 @@
+# New runtime products; the uploaded reference package remains tracked.
+/results/runs/
+/.repro-env/
+/.venv/
+/.Rlib/
+/renv/library/
+/renv/staging/
+.Rhistory
+.RData
+__pycache__/
+*.pyc

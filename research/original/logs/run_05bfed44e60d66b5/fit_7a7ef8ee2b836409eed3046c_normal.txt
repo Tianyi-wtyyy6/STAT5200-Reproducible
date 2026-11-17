@@ -1,0 +1,44 @@
+fit_id: fit_7a7ef8ee2b836409eed3046c  UTC: 2026-11-15T14:34:29.652Z  target: California  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                     p1         p2         p3          p4         p5
+Nelder-Mead 0.001200125 0.01745775  0.5855756  0.03851951  0.2332462
+BFGS        0.017136502 3.22189092 -4.7798562 -1.80730507 24.6289985
+                     p6        p7    value fevals gevals niter convcode kkt1
+Nelder-Mead -0.01315522 0.2123562 3.534000    502     NA    NA        1   NA
+BFGS         9.84032797 2.3820386 3.173111     88     43    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.709
+BFGS          NA 2.967
+                       p1         p2          p3          p4        p5
+Nelder-Mead -0.0005187320 0.07095155 -0.01157082 -0.02150224 0.5597263
+BFGS        -0.0003499331 0.04716728  0.01714479 -0.03394196 0.5274700
+                   p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.4391233 0.05937714 3.164756    502     NA    NA        1   NA
+BFGS        0.3982483 0.04776595 3.175920    126      9    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.710
+BFGS          NA 0.795
+
+ Equal weight loss is: 3.173111 
+
+ Regression Loss is: 3.164756 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 3.164756 
+
+solution.v:
+ 0.0004461175 0.06101942 0.009951081 0.01849225 0.4813732 0.3776527 0.05106525 
+
+solution.w:
+ 1.903e-07 1.623e-07 0.1564906 0.06376636 2.097e-07 1.989e-07 0.000500491 4.176e-07 2.181e-07 4.089e-07 3.58e-07 9.21e-08 1.765e-07 2.067e-07 4.196e-07 1.674e-07 2.337e-07 0.202469 0.2363395 3.22e-08 8.0606e-06 1.438e-07 1.165e-07 2.478e-07 1.125e-07 4.529e-07 2.123e-07 1.756e-07 3.674e-07 1.812e-07 2.596e-07 0.3404188 1.712e-07 2.526e-07 2.251e-07 7.442e-07 5.51e-08 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

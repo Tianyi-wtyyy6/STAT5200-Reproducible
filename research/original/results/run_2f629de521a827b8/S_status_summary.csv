@@ -1,0 +1,12 @@
+Analysis,Status,Count
+ca_validation,skipped,2
+ca_validation,success,4
+classic_placebo,success,117
+donor_validation,success,114
+loo,success,114
+main,success,3
+near_policy,success,2
+near_policy_diagnostic,success,2
+predictor_deletion,success,7
+time_placebo,success,4
+training_window,success,6

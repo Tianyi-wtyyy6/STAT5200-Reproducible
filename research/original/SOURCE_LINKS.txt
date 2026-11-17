@@ -1,0 +1,8 @@
+Original data: https://github.com/edunford/tidysynth
+Frozen smoking.rda: https://raw.githubusercontent.com/edunford/tidysynth/master/data/smoking.rda
+Data documentation: https://github.com/edunford/tidysynth/blob/master/man/smoking.Rd
+ADH paper DOI: 10.1198/jasa.2009.ap08746
+Synth source/API: https://github.com/j-hai/Synth
+Synth archived API snapshots are supplied under sources/.
+OSQP R interface: https://osqp.org/docs/interfaces/rlang.html
+Exact package versions and software citations: renv.lock and metadata/software_citations/.

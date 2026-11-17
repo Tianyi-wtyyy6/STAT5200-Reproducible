@@ -1,0 +1,8 @@
+Case,Method,Pre RMSPE,Mean gap,2000 gap,Post gap RMS,H,1/H
+drop_lnincome,SCM_ADH,2.40,-20.57,-27.62,21.57,0.249,4.01
+drop_retprice,SCM_ADH,1.93,-17.63,-24.10,18.39,0.293,3.41
+drop_age15to24,SCM_ADH,1.79,-18.76,-25.48,19.72,0.245,4.08
+drop_beer,SCM_ADH,1.93,-17.50,-23.94,18.29,0.302,3.32
+drop_cigsale_1975,SCM_ADH,4.22,-19.36,-26.60,20.75,0.541,1.85
+drop_cigsale_1980,SCM_ADH,1.76,-18.95,-25.69,19.89,0.236,4.24
+drop_cigsale_1988,SCM_ADH,1.93,-17.55,-23.98,18.33,0.301,3.32

@@ -1,0 +1,2 @@
+Run: run_86303cadde336de9  Stage: main  UTC: 2026-11-15T14:15:42.695Z 
+ERROR: Can't convert `..1$optimization` <json> to match type of `optimization` <vctrs:::common_class_fallback>. 

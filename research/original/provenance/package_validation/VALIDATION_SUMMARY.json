@@ -1,0 +1,29 @@
+{
+  "status": "pass",
+  "reference_run_id": "run_2f629de521a827b8",
+  "packaged_driver_run_id": "run_d43543f057d2c6a7",
+  "validated_utc": "2026-11-17T01:04:10.535397+00:00",
+  "full_pipeline_cases": 375,
+  "full_pipeline_success": 373,
+  "full_pipeline_skipped_not_applicable": 2,
+  "full_pipeline_failed": 0,
+  "full_pipeline_reused_fit_cases": 373,
+  "numeric_and_structure_checks": 250,
+  "numeric_check_failures": 0,
+  "display_tables_identical": 28,
+  "png_pairs_rebuilt": 59,
+  "pngs_byte_identical": 59,
+  "uncached_main_fits": 3,
+  "uncached_main_checks": 93,
+  "report_directory_created": false,
+  "unchanged_computational_code_sha256": {
+    "R/common.R": "23b2755c31f786608115ffd00f5e6b28ed1647d39ceed586c1244eeed919e77e",
+    "R/data.R": "9441eb0895e139bd5dbec9e0f2715d7ef9d9e54046ab1a953516675e2988c73f",
+    "R/models.R": "654291d3a88c8df218da45e05a6721142de0a44aa4a54f6ce88d6b479dfc6809",
+    "R/experiments.R": "279f3574cee61b6979af206dde9ec6340221c13b389cef0132d6a4aaa64ab18b",
+    "R/checks.R": "38663dd3e2c5db455ba58d1fcf59513d74c4a4558f63f2e381fdbc61153fd003",
+    "R/summaries.R": "c499b6a0548536b9e571c6ce64748b27dd02c537fc0264e585cafe38d8b595e0",
+    "R/figures.R": "6f1636c31ae1e9cf11008d3a3b55a3299e42455b253f1af3ddf95de5556b4dd2"
+  },
+  "testing_scope": "Full pipeline with strictly keyed provided fits; separate cold run of all three main models. Full cold re-estimation of every case is available via scripts/run_fresh.R, and was not repeated just for packaging."
+}

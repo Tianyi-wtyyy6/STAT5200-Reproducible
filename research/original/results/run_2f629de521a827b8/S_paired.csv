@@ -1,0 +1,39 @@
+State,SCM,DID,Delta,Winner
+Alabama,3.71,21.81,-18.10,SCM_OUTCOME_win
+Arkansas,4.21,21.89,-17.68,SCM_OUTCOME_win
+Colorado,7.13,12.30,-5.17,SCM_OUTCOME_win
+Connecticut,14.68,6.70,7.98,DID_win
+Delaware,13.36,11.98,1.38,DID_win
+Georgia,9.90,8.82,1.08,DID_win
+Idaho,6.31,6.88,-0.57,SCM_OUTCOME_win
+Illinois,5.40,14.05,-8.65,SCM_OUTCOME_win
+Indiana,14.81,13.27,1.54,DID_win
+Iowa,5.08,7.63,-2.55,SCM_OUTCOME_win
+Kansas,2.64,1.79,0.85,DID_win
+Kentucky,39.98,7.23,32.74,DID_win
+Louisiana,5.51,5.33,0.18,DID_win
+Maine,8.84,9.21,-0.37,SCM_OUTCOME_win
+Minnesota,4.53,1.90,2.64,DID_win
+Mississippi,5.87,17.61,-11.73,SCM_OUTCOME_win
+Missouri,10.47,15.75,-5.28,SCM_OUTCOME_win
+Montana,7.22,3.79,3.43,DID_win
+Nebraska,6.28,6.45,-0.17,SCM_OUTCOME_win
+Nevada,13.68,40.98,-27.29,SCM_OUTCOME_win
+New Hampshire,11.61,63.54,-51.92,SCM_OUTCOME_win
+New Mexico,3.17,2.51,0.66,DID_win
+North Carolina,7.51,36.30,-28.79,SCM_OUTCOME_win
+North Dakota,8.95,4.87,4.08,DID_win
+Ohio,2.63,11.82,-9.19,SCM_OUTCOME_win
+Oklahoma,15.94,13.64,2.30,DID_win
+Pennsylvania,2.89,8.73,-5.84,SCM_OUTCOME_win
+Rhode Island,26.57,18.75,7.82,DID_win
+South Carolina,6.20,16.53,-10.34,SCM_OUTCOME_win
+South Dakota,8.15,12.24,-4.09,SCM_OUTCOME_win
+Tennessee,10.67,26.83,-16.15,SCM_OUTCOME_win
+Texas,15.68,12.41,3.27,DID_win
+Utah,14.94,9.78,5.16,DID_win
+Vermont,15.63,14.02,1.61,DID_win
+Virginia,16.18,7.76,8.42,DID_win
+West Virginia,14.03,20.65,-6.62,SCM_OUTCOME_win
+Wisconsin,7.99,9.62,-1.63,SCM_OUTCOME_win
+Wyoming,5.53,10.18,-4.65,SCM_OUTCOME_win

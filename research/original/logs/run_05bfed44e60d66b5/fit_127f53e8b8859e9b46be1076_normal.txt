@@ -1,0 +1,41 @@
+fit_id: fit_127f53e8b8859e9b46be1076  UTC: 2026-11-15T14:30:20.265Z  target: Ohio  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                   p1            p2           p3        p4         p5        p6
+Nelder-Mead 0.1797494 -0.0001260505  0.014316433 0.1705619  0.2405465 0.2830508
+BFGS        7.2270954  0.0261211468 -0.002396582 4.4365276 12.8494361 4.4026126
+                   p7    value fevals gevals niter convcode kkt1 kkt2 xtime
+Nelder-Mead 0.1809516 4.258854    501     NA    NA        1   NA   NA 1.867
+BFGS        9.0467527 2.957607    123     43    NA        0   NA   NA 2.537
+                     p1            p2          p3           p4        p5
+Nelder-Mead  0.07479007 -6.956454e-09 0.001739713 0.0005725914 0.4737373
+BFGS        -1.47890153 -2.071001e-04 0.002004389 0.3815339636 2.3110609
+                   p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.4139088 0.08358731 2.191852    501     NA    NA        1   NA
+BFGS        1.2845456 1.20139021 2.881681    148     27    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.759
+BFGS          NA 1.941
+
+ Equal weight loss is: 2.957607 
+
+ Regression Loss is: 2.191852 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 2.191852 
+
+solution.v:
+ 0.07134171 6.6e-09 0.0016595 0.0005461908 0.4518946 0.3948246 0.07973334 
+
+solution.w:
+ 7.873e-07 0.2550267 4.4484e-06 7.565e-06 0.2342973 0.2577951 0.03286377 3.7177e-06 1.48702e-05 4.3798e-06 8.7494e-06 9.181e-06 2.1512e-06 1.82596e-05 8.745e-06 1.17866e-05 2.5355e-06 3.87139e-05 5.583e-06 7.1419e-06 4.0986e-06 7.172e-07 4.5059e-06 2.5766e-06 7.2893e-06 9.8381e-06 6.21713e-05 1.02227e-05 1.29135e-05 4.7744e-06 0.2041154 0.01556236 1.8645e-06 3.11064e-05 9.1184e-06 3.8994e-06 1.79181e-05 7.6382e-06 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

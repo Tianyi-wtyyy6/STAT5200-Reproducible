@@ -1,0 +1,80 @@
+project_title: "California's Tobacco Control Program: Replication, Counterfactual Comparison, and Validation Using Synthetic Control and Difference-in-Differences"
+design_status: "User-specified design; configuration frozen before first model experiment. Implementation corrections are logged separately."
+seed: 5200
+treated_state: California
+first_treated_year: 1989
+panel_years: [1970, 2000]
+train_years: [1970, 1988]
+post_years: [1989, 2000]
+methods: [SCM_ADH, SCM_OUTCOME, DID]
+data:
+  url: https://raw.githubusercontent.com/edunford/tidysynth/master/data/smoking.rda
+  reference_sha256: a946d153e8faee62e6deba7a16db6f4c1251d9e56d5b41de7e79a593eb8110d9
+  reference_bytes: 17505
+  expected_states: 39
+  expected_rows: 1209
+adh:
+  predictors:
+    lnincome: [1980, 1988]
+    retprice: [1980, 1988]
+    age15to24: [1980, 1988]
+    beer: [1984, 1988]
+    cigsale_1975: [1975, 1975]
+    cigsale_1980: [1980, 1980]
+    cigsale_1988: [1988, 1988]
+  optimxmethod: [Nelder-Mead, BFGS]
+  genoud: false
+  quadopt: ipop
+  primary: {Margin.ipop: 0.02, Sigf.ipop: 7, Bound.ipop: 6}
+  retry: {Margin.ipop: 0.0005, Sigf.ipop: 7, Bound.ipop: 10}
+  retry_rule: "Once only after an error, nonfinite result, or infeasible weights; identical rule for all targets."
+qp:
+  solver: OSQP
+  eps_abs: 1.0e-8
+  eps_rel: 1.0e-8
+  max_iter: 200000
+  polishing: true
+  adaptive_rho: false
+  scaled_termination: false
+  objective_scale: "Whole objective divided by mean squared donor training outcome; preserves unpenalized minimizer."
+  ridge: 0
+  roundoff_cleanup: "Clip only negative weights within constraint tolerance to zero; normalize once; retain raw weights and objective difference."
+  retry_rule: "One deterministic numerical retry with eps_abs=eps_rel=1e-9 and max_iter=1000000, only if solver/constraints/objective checks fail."
+tolerances:
+  data_reference: 1.0e-5
+  constraint: 1.0e-6
+  objective_absolute: 1.0e-5
+  objective_relative: 1.0e-8
+  equivalence: 1.0e-7
+  leakage: 1.0e-8
+  tie_rmse: 1.0e-6
+  near_zero_mspe: 1.0e-8
+placebo:
+  thresholds: [20, 5, 2]
+  main_gap_threshold: 2
+  main_rank: unfiltered
+  ties: greater_than_or_equal
+  classic_id: classic_39_symmetric
+  clean_id: clean_38_no_CA
+validation:
+  ca_folds:
+    - {id: CA_pre_1, train: [1970, 1980], eval: [1981, 1984], visible_end: 1984}
+    - {id: CA_pre_2, train: [1970, 1984], eval: [1985, 1988], visible_end: 1988}
+  donor_train: [1970, 1988]
+  donor_eval: [1989, 2000]
+robustness:
+  loo: all_38_original_donors
+  highlight_weight: 0.01
+  train_windows: [[1970, 1988], [1975, 1988], [1980, 1988]]
+  common_fit_window: [1980, 1988]
+  drop_predictors: [lnincome, retprice, age15to24, beer, cigsale_1975, cigsale_1980, cigsale_1988]
+  time_placebos:
+    - {id: time_1981, train: [1970, 1980], eval: [1981, 1988], visible_end: 1988, pseudo_year: 1981}
+    - {id: time_1985, train: [1970, 1984], eval: [1985, 1988], visible_end: 1988, pseudo_year: 1985}
+  near_policy: {train: [1970, 1986], diagnostic: [1987, 1988], eval: [1989, 2000]}
+  dynamic_periods: [[1989, 1992], [1993, 1996], [1997, 2000]]
+figures:
+  colors: {Observed: '#000000', SCM_ADH: '#0072B2', SCM_OUTCOME: '#D55E00', DID: '#009E73'}
+  linetypes: {Observed: solid, SCM_ADH: longdash, SCM_OUTCOME: dashed, DID: dotdash}
+  dpi: 300
+  base_size: 10

@@ -1,0 +1,46 @@
+function (rho = 0.1, rho_is_vec = TRUE, sigma = 1e-06, max_iter = 4000L, 
+    eps_abs = 0.001, eps_rel = 0.001, eps_prim_inf = 1e-04, eps_dual_inf = 1e-04, 
+    alpha = 1.6, linsys_solver = c(OSQP_DIRECT_SOLVER = 1L), 
+    delta = 1e-06, polishing = FALSE, polish_refine_iter = 3L, 
+    verbose = TRUE, scaled_termination = FALSE, check_termination = 25L, 
+    check_dualgap = TRUE, warm_starting = TRUE, scaling = 10L, 
+    adaptive_rho = 1L, adaptive_rho_interval = 50L, adaptive_rho_tolerance = 5, 
+    adaptive_rho_fraction = 0.4, cg_max_iter = 20L, cg_tol_reduction = 10L, 
+    cg_tol_fraction = 0.15, cg_precond = c(OSQP_DIAGONAL_PRECONDITIONER = 1L), 
+    profiler_level = 0L, time_limit = 1e+10, polish = NULL, warm_start = NULL) 
+{
+    if (!is.null(polish)) {
+        warning(cli::format_warning(c(`!` = "The {.arg polish} argument is deprecated.", 
+            i = "Use {.arg polishing} instead.")), call. = FALSE)
+        polishing <- polish
+    }
+    if (!is.null(warm_start)) {
+        warning(cli::format_warning(c(`!` = "The {.arg warm_start} argument is deprecated.", 
+            i = "Use {.arg warm_starting} instead.")), call. = FALSE)
+        warm_starting <- warm_start
+    }
+    given_args <- as.list(environment())
+    call_arg_names <- names(match.call()[-1])
+    default_args <- formals()
+    if ("polish" %in% call_arg_names) {
+        call_arg_names <- c(setdiff(call_arg_names, "polish"), 
+            "polishing")
+    }
+    if ("warm_start" %in% call_arg_names) {
+        call_arg_names <- c(setdiff(call_arg_names, "warm_start"), 
+            "warm_starting")
+    }
+    given_args <- given_args[call_arg_names]
+    for (name in call_arg_names) {
+        given <- given_args[[name]]
+        if (length(given) != 1 || is.na(given)) {
+            given_args[[name]] <- default_args[[name]]
+        }
+        else {
+            storage.mode(given_args[[name]]) <- storage.mode(eval(default_args[[name]]))
+        }
+    }
+    given_args
+}
+<bytecode: 0xc57ece0>
+<environment: namespace:osqp>

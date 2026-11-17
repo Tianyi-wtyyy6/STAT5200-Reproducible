@@ -1,0 +1,196 @@
+variable,state,n_missing,n_total
+cigsale,Alabama,0,31
+cigsale,Arkansas,0,31
+cigsale,California,0,31
+cigsale,Colorado,0,31
+cigsale,Connecticut,0,31
+cigsale,Delaware,0,31
+cigsale,Georgia,0,31
+cigsale,Idaho,0,31
+cigsale,Illinois,0,31
+cigsale,Indiana,0,31
+cigsale,Iowa,0,31
+cigsale,Kansas,0,31
+cigsale,Kentucky,0,31
+cigsale,Louisiana,0,31
+cigsale,Maine,0,31
+cigsale,Minnesota,0,31
+cigsale,Mississippi,0,31
+cigsale,Missouri,0,31
+cigsale,Montana,0,31
+cigsale,Nebraska,0,31
+cigsale,Nevada,0,31
+cigsale,New Hampshire,0,31
+cigsale,New Mexico,0,31
+cigsale,North Carolina,0,31
+cigsale,North Dakota,0,31
+cigsale,Ohio,0,31
+cigsale,Oklahoma,0,31
+cigsale,Pennsylvania,0,31
+cigsale,Rhode Island,0,31
+cigsale,South Carolina,0,31
+cigsale,South Dakota,0,31
+cigsale,Tennessee,0,31
+cigsale,Texas,0,31
+cigsale,Utah,0,31
+cigsale,Vermont,0,31
+cigsale,Virginia,0,31
+cigsale,West Virginia,0,31
+cigsale,Wisconsin,0,31
+cigsale,Wyoming,0,31
+lnincome,Alabama,5,31
+lnincome,Arkansas,5,31
+lnincome,California,5,31
+lnincome,Colorado,5,31
+lnincome,Connecticut,5,31
+lnincome,Delaware,5,31
+lnincome,Georgia,5,31
+lnincome,Idaho,5,31
+lnincome,Illinois,5,31
+lnincome,Indiana,5,31
+lnincome,Iowa,5,31
+lnincome,Kansas,5,31
+lnincome,Kentucky,5,31
+lnincome,Louisiana,5,31
+lnincome,Maine,5,31
+lnincome,Minnesota,5,31
+lnincome,Mississippi,5,31
+lnincome,Missouri,5,31
+lnincome,Montana,5,31
+lnincome,Nebraska,5,31
+lnincome,Nevada,5,31
+lnincome,New Hampshire,5,31
+lnincome,New Mexico,5,31
+lnincome,North Carolina,5,31
+lnincome,North Dakota,5,31
+lnincome,Ohio,5,31
+lnincome,Oklahoma,5,31
+lnincome,Pennsylvania,5,31
+lnincome,Rhode Island,5,31
+lnincome,South Carolina,5,31
+lnincome,South Dakota,5,31
+lnincome,Tennessee,5,31
+lnincome,Texas,5,31
+lnincome,Utah,5,31
+lnincome,Vermont,5,31
+lnincome,Virginia,5,31
+lnincome,West Virginia,5,31
+lnincome,Wisconsin,5,31
+lnincome,Wyoming,5,31
+retprice,Alabama,0,31
+retprice,Arkansas,0,31
+retprice,California,0,31
+retprice,Colorado,0,31
+retprice,Connecticut,0,31
+retprice,Delaware,0,31
+retprice,Georgia,0,31
+retprice,Idaho,0,31
+retprice,Illinois,0,31
+retprice,Indiana,0,31
+retprice,Iowa,0,31
+retprice,Kansas,0,31
+retprice,Kentucky,0,31
+retprice,Louisiana,0,31
+retprice,Maine,0,31
+retprice,Minnesota,0,31
+retprice,Mississippi,0,31
+retprice,Missouri,0,31
+retprice,Montana,0,31
+retprice,Nebraska,0,31
+retprice,Nevada,0,31
+retprice,New Hampshire,0,31
+retprice,New Mexico,0,31
+retprice,North Carolina,0,31
+retprice,North Dakota,0,31
+retprice,Ohio,0,31
+retprice,Oklahoma,0,31
+retprice,Pennsylvania,0,31
+retprice,Rhode Island,0,31
+retprice,South Carolina,0,31
+retprice,South Dakota,0,31
+retprice,Tennessee,0,31
+retprice,Texas,0,31
+retprice,Utah,0,31
+retprice,Vermont,0,31
+retprice,Virginia,0,31
+retprice,West Virginia,0,31
+retprice,Wisconsin,0,31
+retprice,Wyoming,0,31
+age15to24,Alabama,10,31
+age15to24,Arkansas,10,31
+age15to24,California,10,31
+age15to24,Colorado,10,31
+age15to24,Connecticut,10,31
+age15to24,Delaware,10,31
+age15to24,Georgia,10,31
+age15to24,Idaho,10,31
+age15to24,Illinois,10,31
+age15to24,Indiana,10,31
+age15to24,Iowa,10,31
+age15to24,Kansas,10,31
+age15to24,Kentucky,10,31
+age15to24,Louisiana,10,31
+age15to24,Maine,10,31
+age15to24,Minnesota,10,31
+age15to24,Mississippi,10,31
+age15to24,Missouri,10,31
+age15to24,Montana,10,31
+age15to24,Nebraska,10,31
+age15to24,Nevada,10,31
+age15to24,New Hampshire,10,31
+age15to24,New Mexico,10,31
+age15to24,North Carolina,10,31
+age15to24,North Dakota,10,31
+age15to24,Ohio,10,31
+age15to24,Oklahoma,10,31
+age15to24,Pennsylvania,10,31
+age15to24,Rhode Island,10,31
+age15to24,South Carolina,10,31
+age15to24,South Dakota,10,31
+age15to24,Tennessee,10,31
+age15to24,Texas,10,31
+age15to24,Utah,10,31
+age15to24,Vermont,10,31
+age15to24,Virginia,10,31
+age15to24,West Virginia,10,31
+age15to24,Wisconsin,10,31
+age15to24,Wyoming,10,31
+beer,Alabama,17,31
+beer,Arkansas,17,31
+beer,California,17,31
+beer,Colorado,17,31
+beer,Connecticut,17,31
+beer,Delaware,17,31
+beer,Georgia,17,31
+beer,Idaho,17,31
+beer,Illinois,17,31
+beer,Indiana,17,31
+beer,Iowa,17,31
+beer,Kansas,17,31
+beer,Kentucky,17,31
+beer,Louisiana,17,31
+beer,Maine,17,31
+beer,Minnesota,17,31
+beer,Mississippi,17,31
+beer,Missouri,17,31
+beer,Montana,17,31
+beer,Nebraska,17,31
+beer,Nevada,17,31
+beer,New Hampshire,17,31
+beer,New Mexico,17,31
+beer,North Carolina,17,31
+beer,North Dakota,17,31
+beer,Ohio,17,31
+beer,Oklahoma,17,31
+beer,Pennsylvania,17,31
+beer,Rhode Island,17,31
+beer,South Carolina,17,31
+beer,South Dakota,17,31
+beer,Tennessee,17,31
+beer,Texas,17,31
+beer,Utah,17,31
+beer,Vermont,17,31
+beer,Virginia,17,31
+beer,West Virginia,17,31
+beer,Wisconsin,17,31
+beer,Wyoming,17,31

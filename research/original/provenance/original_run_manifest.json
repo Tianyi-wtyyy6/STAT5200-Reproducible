@@ -1,0 +1,108 @@
+{
+  "run_id": "run_2f629de521a827b8",
+  "created_utc": "2026-11-15T14:52:42.717Z",
+  "updated_utc": "2026-11-15T15:00:21.311Z",
+  "status": "complete",
+  "last_stage": "report",
+  "data_hash": "a946d153e8faee62e6deba7a16db6f4c1251d9e56d5b41de7e79a593eb8110d9",
+  "config_hash": "f97f6b477f36af0ad9a43ae6620068be63cf545bf487299a65e6667dd342ff10",
+  "statistical_code_hash": "1542a7c5a058fcc6abc5e718848a5bfdf207c35b6950a6078119ae670f5dc4f6",
+  "code_sha256": {
+    "R/checks.R": "38663dd3e2c5db455ba58d1fcf59513d74c4a4558f63f2e381fdbc61153fd003",
+    "R/common.R": "23b2755c31f786608115ffd00f5e6b28ed1647d39ceed586c1244eeed919e77e",
+    "R/data.R": "9441eb0895e139bd5dbec9e0f2715d7ef9d9e54046ab1a953516675e2988c73f",
+    "R/experiments.R": "279f3574cee61b6979af206dde9ec6340221c13b389cef0132d6a4aaa64ab18b",
+    "R/figures.R": "6f1636c31ae1e9cf11008d3a3b55a3299e42455b253f1af3ddf95de5556b4dd2",
+    "R/models.R": "654291d3a88c8df218da45e05a6721142de0a44aa4a54f6ce88d6b479dfc6809",
+    "R/report.R": "5ed5909e65340e5dc86e1dc6fa1454f82fc9066f7e2dd84ba87aa721571cac77",
+    "R/summaries.R": "c499b6a0548536b9e571c6ce64748b27dd02c537fc0264e585cafe38d8b595e0",
+    "run_all.R": "d7e96efa3059db67801a34f1d14147ef2ac4a4dd3b91bc497374542b1e4b9871",
+    "config/project.yml": "f97f6b477f36af0ad9a43ae6620068be63cf545bf487299a65e6667dd342ff10",
+    "renv.lock": "b0f9ddfa67e9573e1c9734507c943f8a779b7381164247728b8871782e93cc52",
+    "scripts/acquire_data.R": "5862b0048a5ffff669e9479eddbe5b0317979eeaf1f40975008fe1f22c313ad6",
+    "scripts/compile_reports.sh": "6e67644a0255dd1a6acc5926e604b7cabb1f6b0a80c930ee53bddd2004402b7f",
+    "scripts/install_dependencies.R": "b0342ba5d44c00f0f6a7c6cb85348919544467389ba1f18dc018a116830e6942",
+    "scripts/lock_environment.R": "d18dd126d7ac840724384f0583665c8aa7894ddbd5fab6686eb6f3dddbbb15b6",
+    "scripts/verify_artifacts.py": "002d036b475b340532da57e6ec262447bb9f4582f1048c48d1b3289e4e86b95b",
+    "report/main.tex": "f642e9533dcfc296eb1ca9980ea3518d08e576ba6c398c1403a43fb72bca728d",
+    "report/preamble.tex": "3982ba60d7083259174e09caadee8fb00fcf2980112ce57b79d2750eb7730ccf",
+    "report/references.bib": "75db3338f643e729708010868b7334a11ccb966e7e07e909a5f482396d020053",
+    "report/supplement.tex": "79d9243f069548a3c4e2440bcb435eaf712666c73b42f532c89156cce8676113",
+    "README.md": "f3b39c3e0b5b0db38ea684c32b9ecbaa337a6757857d43339b932cf8796ca6d4"
+  },
+  "packages": {
+    "Synth": "1.1.10",
+    "osqp": "1.0.0",
+    "Matrix": "1.7.6",
+    "optimx": "2025.4.9",
+    "kernlab": "0.9.33",
+    "rgenoud": "5.9.0.11",
+    "ggplot2": "4.0.1",
+    "dplyr": "1.2.1",
+    "tidyr": "1.3.2",
+    "readr": "2.1.6",
+    "yaml": "2.3.12",
+    "jsonlite": "2.0.0",
+    "digest": "0.6.39",
+    "renv": "1.1.5",
+    "knitr": "1.51",
+    "patchwork": "1.3.2"
+  },
+  "R": "R version 4.5.2 (2025-10-31)",
+  "platform": "x86_64-pc-linux-gnu",
+  "seed": 5200,
+  "command": "/appl/R-4.5/lib64/R/bin/exec/R --no-echo --no-restore --vanilla --file=run_all.R --args --config config/project.yml --stage report",
+  "canonical_command": "Rscript --vanilla run_all.R --config config/project.yml",
+  "data_provenance": {
+    "url": "https://raw.githubusercontent.com/edunford/tidysynth/master/data/smoking.rda",
+    "acquired_utc": "2026-11-15T14:06:23.944711+00:00",
+    "bytes": 17505,
+    "sha256": "a946d153e8faee62e6deba7a16db6f4c1251d9e56d5b41de7e79a593eb8110d9",
+    "method": "curl -fL --retry 3 --connect-timeout 20; original binary retained",
+    "reference_hash_matches": true,
+    "repository_head_at_acquisition": "58eda583ea28645a3531cd769b7852ff504656df",
+    "serialization_changes": "none",
+    "transformations": [
+      "load smoking object; convert tibble to data.frame",
+      "state names retained; year integer; alphabetical stable state_id appended",
+      "sort state/year; no rows dropped; no imputation; original numerical fields retained"
+    ]
+  },
+  "information_boundary": "fit receives training rows only; predict receives donor outcomes only; score is the only step receiving held-out target labels",
+  "artifacts": {
+    "results": "results/run_2f629de521a827b8",
+    "figures": "figures/run_2f629de521a827b8",
+    "logs": "logs/run_2f629de521a827b8"
+  },
+  "design_status": "User-specified design; configuration frozen before first model experiment. Implementation corrections are logged separately.",
+  "completed_utc": "2026-11-15T15:06:02.590280+00:00",
+  "review": "metadata/final_review.json",
+  "case_counts": {
+    "registered": 375,
+    "success": 373,
+    "skipped_not_applicable": 2,
+    "failed": 0
+  },
+  "report_pages": {
+    "main": 21,
+    "supplement": 78
+  },
+  "figures": 59,
+  "all_required_checks": "pass",
+  "numerical_qualifications": "62 of 122 distinct ADH fits selected finite feasible outer candidates with nonzero optimizer codes; fully disclosed. No claim of global outer optimum.",
+  "execution_commands": [
+    "Rscript --vanilla run_all.R --config config/project.yml",
+    "Rscript --vanilla run_all.R --config config/project.yml --stage main",
+    "Rscript --vanilla run_all.R --config config/project.yml --stage checks",
+    "Rscript --vanilla run_all.R --config config/project.yml --stage experiments",
+    "Rscript --vanilla run_all.R --config config/project.yml --stage figures",
+    "Rscript --vanilla run_all.R --config config/project.yml --stage report",
+    "python3 scripts/verify_artifacts.py (invoked by report stage)"
+  ],
+  "processed_data_sha256": {
+    "data/processed/state_id_mapping.csv": "6cbadb043b2474749aecd210ea0c80d05f666fcf2524213a65c16a19bf75abe9",
+    "data/processed/panel.rds": "f26455fef48ef09e66ce58c636065a89c7c4bf6f2fb577cadf56543d9b588b72",
+    "data/processed/smoking_panel.csv": "4c568da87dfedde7c44b296688cb8ecf1f91ad1b22c95256acf1b38a9749f902",
+    "data/processed/data_audit_report.txt": "469c18d01e402d646f6d79e7a975596a4f19398488aaac94735746f22dcd5d31"
+  }
+}

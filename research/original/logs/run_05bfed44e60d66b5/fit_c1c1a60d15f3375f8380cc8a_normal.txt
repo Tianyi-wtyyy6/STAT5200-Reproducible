@@ -1,0 +1,44 @@
+fit_id: fit_c1c1a60d15f3375f8380cc8a  UTC: 2026-11-15T14:33:39.036Z  target: California  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                      p1          p2         p3          p4          p5
+Nelder-Mead -0.001376771  0.03044299  0.9211962  -0.1904698   0.3937491
+BFGS        -0.190464686 -5.53089447 28.6767913 -40.4065322 -59.6083709
+                     p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead -0.04550971  0.1370435 3.309023    454     NA    NA       10   NA
+BFGS        47.46272984 32.6386670 3.378928    143     76    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.415
+BFGS          NA 4.281
+                      p1         p2           p3           p4        p5
+Nelder-Mead 0.0007761567 0.05063591 0.0076463299 -0.019355106 0.5004258
+BFGS        0.0009736263 0.02490153 0.0005976857 -0.002047834 0.5060570
+                   p6         p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.4360356 0.07564719 3.183422    501     NA    NA        1   NA
+BFGS        0.4194404 0.06740642 3.747277     57      5    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.994
+BFGS          NA 0.388
+
+ Equal weight loss is: 3.309023 
+
+ Regression Loss is: 3.183422 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 3.183422 
+
+solution.v:
+ 0.0007117294 0.04643272 0.007011623 0.01774848 0.4588864 0.3998411 0.06936787 
+
+solution.w:
+ 1.237e-07 1.046e-07 0.1697568 0.065116 1.357e-07 1.275e-07 0.0001751821 3.421e-07 1.374e-07 2.735e-07 2.488e-07 1.227e-07 1.361e-07 1.388e-07 1.119e-07 1.516e-07 0.1900753 7.081e-07 0.2344418 5.56e-08 6.58609e-05 7.84e-08 1.673e-07 1.59e-07 1.087e-07 2.938e-07 1.372e-07 1.127e-07 2.498e-07 1.159e-07 2.022e-07 0.3403633 1.168e-07 1.648e-07 1.515e-07 6.205e-07 1.731e-07 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

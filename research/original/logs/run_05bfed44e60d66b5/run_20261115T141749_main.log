@@ -1,0 +1,8 @@
+Run: run_05bfed44e60d66b5  Stage: main  UTC: 2026-11-15T14:17:49.004Z 
+[1/375] CA_main SCM_ADH (main)
+  pre RMSPE 1.7794; evaluation mean gap -18.8456; cached=FALSE
+[2/375] CA_main SCM_OUTCOME (main)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[3/375] CA_main DID (main)
+  pre RMSPE 7.1572; evaluation mean gap -27.3491; cached=FALSE
+Stage completed at 2026-11-15T14:17:59.894Z 

@@ -1,0 +1,1 @@
+fit_id: fit_18d3557e69196186b8a8b804  UTC: 2026-11-15T14:28:35.741Z  target: Kentucky  method: SCM_OUTCOME 

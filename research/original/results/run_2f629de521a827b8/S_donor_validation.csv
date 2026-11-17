@@ -1,0 +1,115 @@
+State,Method,RMSE,MAE,Mean error,Status
+Alabama,SCM_ADH,2.99,2.73,1.12,success
+Alabama,SCM_OUTCOME,3.71,3.23,2.29,success
+Alabama,DID,21.81,21.62,21.62,success
+Arkansas,SCM_ADH,5.22,4.61,-2.94,success
+Arkansas,SCM_OUTCOME,4.21,3.24,-0.87,success
+Arkansas,DID,21.89,21.46,21.46,success
+Colorado,SCM_ADH,5.40,4.48,-4.41,success
+Colorado,SCM_OUTCOME,7.13,6.23,-5.96,success
+Colorado,DID,12.30,12.02,-12.02,success
+Connecticut,SCM_ADH,12.73,11.64,-11.13,success
+Connecticut,SCM_OUTCOME,14.68,13.44,-13.44,success
+Connecticut,DID,6.70,6.12,-4.22,success
+Delaware,SCM_ADH,20.77,18.51,18.51,success
+Delaware,SCM_OUTCOME,13.36,9.87,9.87,success
+Delaware,DID,11.98,8.24,6.84,success
+Georgia,SCM_ADH,10.94,9.83,-9.83,success
+Georgia,SCM_OUTCOME,9.90,8.81,-8.81,success
+Georgia,DID,8.82,7.75,7.75,success
+Idaho,SCM_ADH,6.36,5.35,0.66,success
+Idaho,SCM_OUTCOME,6.31,5.27,1.93,success
+Idaho,DID,6.88,5.70,-3.18,success
+Illinois,SCM_ADH,6.52,5.59,-4.16,success
+Illinois,SCM_OUTCOME,5.40,4.62,-1.87,success
+Illinois,DID,14.05,12.31,-12.31,success
+Indiana,SCM_ADH,21.57,20.56,20.56,success
+Indiana,SCM_OUTCOME,14.81,14.11,14.11,success
+Indiana,DID,13.27,12.16,12.16,success
+Iowa,SCM_ADH,5.86,5.44,5.01,success
+Iowa,SCM_OUTCOME,5.08,4.21,3.97,success
+Iowa,DID,7.63,7.06,7.06,success
+Kansas,SCM_ADH,4.61,3.79,-3.79,success
+Kansas,SCM_OUTCOME,2.64,2.19,-1.41,success
+Kansas,DID,1.79,1.65,-1.65,success
+Kentucky,SCM_ADH,38.82,38.28,38.28,success
+Kentucky,SCM_OUTCOME,39.98,39.30,39.30,success
+Kentucky,DID,7.23,5.29,2.53,success
+Louisiana,SCM_ADH,6.21,5.27,4.68,success
+Louisiana,SCM_OUTCOME,5.51,4.37,3.85,success
+Louisiana,DID,5.33,4.63,2.86,success
+Maine,SCM_ADH,12.01,10.06,-6.41,success
+Maine,SCM_OUTCOME,8.84,7.44,-2.86,success
+Maine,DID,9.21,8.10,-3.42,success
+Minnesota,SCM_ADH,2.95,2.60,1.85,success
+Minnesota,SCM_OUTCOME,4.53,3.67,-3.67,success
+Minnesota,DID,1.90,1.51,0.96,success
+Mississippi,SCM_ADH,5.45,4.20,3.99,success
+Mississippi,SCM_OUTCOME,5.87,5.22,5.15,success
+Mississippi,DID,17.61,17.32,17.32,success
+Missouri,SCM_ADH,8.56,7.55,7.33,success
+Missouri,SCM_OUTCOME,10.47,9.04,9.04,success
+Missouri,DID,15.75,15.46,15.46,success
+Montana,SCM_ADH,7.45,6.33,6.31,success
+Montana,SCM_OUTCOME,7.22,6.44,6.44,success
+Montana,DID,3.79,3.06,-0.71,success
+Nebraska,SCM_ADH,6.01,5.64,5.64,success
+Nebraska,SCM_OUTCOME,6.28,5.84,5.84,success
+Nebraska,DID,6.45,6.09,6.09,success
+Nevada,SCM_ADH,13.32,11.79,-8.91,success
+Nevada,SCM_OUTCOME,13.68,11.75,-7.48,success
+Nevada,DID,40.98,39.33,-39.33,success
+New Hampshire,SCM_ADH,17.68,15.32,-13.62,success
+New Hampshire,SCM_OUTCOME,11.61,9.88,0.28,success
+New Hampshire,DID,63.54,62.40,-62.40,success
+New Mexico,SCM_ADH,8.88,8.17,-8.17,success
+New Mexico,SCM_OUTCOME,3.17,2.34,-2.30,success
+New Mexico,DID,2.51,1.95,-0.99,success
+North Carolina,SCM_ADH,7.52,5.79,-3.01,success
+North Carolina,SCM_OUTCOME,7.51,5.79,-3.01,success
+North Carolina,DID,36.30,35.81,-35.81,success
+North Dakota,SCM_ADH,9.29,8.22,-6.75,success
+North Dakota,SCM_OUTCOME,8.95,7.86,-6.05,success
+North Dakota,DID,4.87,3.61,-3.56,success
+Ohio,SCM_ADH,2.47,2.00,0.04,success
+Ohio,SCM_OUTCOME,2.63,2.26,0.53,success
+Ohio,DID,11.82,11.73,11.73,success
+Oklahoma,SCM_ADH,11.85,11.03,0.25,success
+Oklahoma,SCM_OUTCOME,15.94,14.58,7.42,success
+Oklahoma,DID,13.64,13.04,0.43,success
+Pennsylvania,SCM_ADH,2.90,2.06,-0.67,success
+Pennsylvania,SCM_OUTCOME,2.89,2.44,2.07,success
+Pennsylvania,DID,8.73,8.40,8.40,success
+Rhode Island,SCM_ADH,10.92,10.21,-9.80,success
+Rhode Island,SCM_OUTCOME,26.57,25.47,-25.47,success
+Rhode Island,DID,18.75,17.66,-17.43,success
+South Carolina,SCM_ADH,6.41,4.88,0.24,success
+South Carolina,SCM_OUTCOME,6.20,5.04,-0.91,success
+South Carolina,DID,16.53,15.21,15.21,success
+South Dakota,SCM_ADH,5.47,4.51,4.08,success
+South Dakota,SCM_OUTCOME,8.15,7.11,6.98,success
+South Dakota,DID,12.24,11.30,11.30,success
+Tennessee,SCM_ADH,11.10,10.31,10.31,success
+Tennessee,SCM_OUTCOME,10.67,9.86,9.86,success
+Tennessee,DID,26.83,26.77,26.77,success
+Texas,SCM_ADH,15.41,14.75,-14.75,success
+Texas,SCM_OUTCOME,15.68,14.18,-14.18,success
+Texas,DID,12.41,11.67,-11.67,success
+Utah,SCM_ADH,14.94,14.46,-14.46,success
+Utah,SCM_OUTCOME,14.94,14.46,-14.46,success
+Utah,DID,9.78,9.00,9.00,success
+Vermont,SCM_ADH,11.04,9.71,-2.66,success
+Vermont,SCM_OUTCOME,15.63,11.36,-9.88,success
+Vermont,DID,14.02,10.51,-9.10,success
+Virginia,SCM_ADH,13.19,12.33,-12.33,success
+Virginia,SCM_OUTCOME,16.18,15.54,-15.54,success
+Virginia,DID,7.76,7.12,-6.95,success
+West Virginia,SCM_ADH,15.86,13.24,12.48,success
+West Virginia,SCM_OUTCOME,14.03,11.95,11.95,success
+West Virginia,DID,20.65,18.88,18.88,success
+Wisconsin,SCM_ADH,8.48,8.11,8.11,success
+Wisconsin,SCM_OUTCOME,7.99,7.68,7.68,success
+Wisconsin,DID,9.62,9.47,9.47,success
+Wyoming,SCM_ADH,4.98,3.34,-1.25,success
+Wyoming,SCM_OUTCOME,5.53,4.27,0.81,success
+Wyoming,DID,10.18,8.54,-8.54,success

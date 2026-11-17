@@ -1,0 +1,742 @@
+Run: run_05bfed44e60d66b5  Stage: experiments  UTC: 2026-11-15T14:21:25.736Z 
+[5/375] CA_pre_1 SCM_OUTCOME (ca_validation)
+  pre RMSPE 0.8378; evaluation mean gap -0.3863; cached=FALSE
+[6/375] CA_pre_1 DID (ca_validation)
+  pre RMSPE 6.0317; evaluation mean gap -10.4844; cached=FALSE
+[8/375] CA_pre_2 SCM_OUTCOME (ca_validation)
+  pre RMSPE 0.8593; evaluation mean gap -6.1286; cached=FALSE
+[9/375] CA_pre_2 DID (ca_validation)
+  pre RMSPE 6.9467; evaluation mean gap -8.7353; cached=FALSE
+[10/375] donor_Alabama SCM_ADH (donor_validation)
+  pre RMSPE 2.3130; evaluation mean gap 1.1173; cached=FALSE
+[11/375] donor_Alabama SCM_OUTCOME (donor_validation)
+  pre RMSPE 1.8205; evaluation mean gap 2.2904; cached=FALSE
+[12/375] donor_Alabama DID (donor_validation)
+  pre RMSPE 9.0998; evaluation mean gap 21.6171; cached=FALSE
+[13/375] donor_Arkansas SCM_ADH (donor_validation)
+  pre RMSPE 2.1324; evaluation mean gap -2.9414; cached=FALSE
+[14/375] donor_Arkansas SCM_OUTCOME (donor_validation)
+  pre RMSPE 2.0494; evaluation mean gap -0.8719; cached=FALSE
+[15/375] donor_Arkansas DID (donor_validation)
+  pre RMSPE 11.1666; evaluation mean gap 21.4635; cached=FALSE
+[16/375] donor_Colorado SCM_ADH (donor_validation)
+  pre RMSPE 4.5610; evaluation mean gap -4.4104; cached=FALSE
+[17/375] donor_Colorado SCM_OUTCOME (donor_validation)
+  pre RMSPE 2.8957; evaluation mean gap -5.9605; cached=FALSE
+[18/375] donor_Colorado DID (donor_validation)
+  pre RMSPE 6.7154; evaluation mean gap -12.0225; cached=FALSE
+[19/375] donor_Connecticut SCM_ADH (donor_validation)
+  pre RMSPE 4.7887; evaluation mean gap -11.1342; cached=FALSE
+[20/375] donor_Connecticut SCM_OUTCOME (donor_validation)
+  pre RMSPE 2.9474; evaluation mean gap -13.4418; cached=FALSE
+[21/375] donor_Connecticut DID (donor_validation)
+  pre RMSPE 7.5297; evaluation mean gap -4.2239; cached=FALSE
+[22/375] donor_Delaware SCM_ADH (donor_validation)
+  pre RMSPE 6.2709; evaluation mean gap 18.5076; cached=FALSE
+[23/375] donor_Delaware SCM_OUTCOME (donor_validation)
+  pre RMSPE 3.4245; evaluation mean gap 9.8733; cached=FALSE
+[24/375] donor_Delaware DID (donor_validation)
+  pre RMSPE 7.5047; evaluation mean gap 6.8415; cached=FALSE
+[25/375] donor_Georgia SCM_ADH (donor_validation)
+  pre RMSPE 1.3003; evaluation mean gap -9.8286; cached=FALSE
+[26/375] donor_Georgia SCM_OUTCOME (donor_validation)
+  pre RMSPE 1.0921; evaluation mean gap -8.8069; cached=FALSE
+[27/375] donor_Georgia DID (donor_validation)
+  pre RMSPE 8.5243; evaluation mean gap 7.7545; cached=FALSE
+[28/375] donor_Idaho SCM_ADH (donor_validation)
+  pre RMSPE 2.4655; evaluation mean gap 0.6551; cached=FALSE
+[29/375] donor_Idaho SCM_OUTCOME (donor_validation)
+  pre RMSPE 2.1559; evaluation mean gap 1.9306; cached=FALSE
+[30/375] donor_Idaho DID (donor_validation)
+  pre RMSPE 6.3664; evaluation mean gap -3.1811; cached=FALSE
+[31/375] donor_Illinois SCM_ADH (donor_validation)
+  pre RMSPE 2.2207; evaluation mean gap -4.1559; cached=FALSE
+[32/375] donor_Illinois SCM_OUTCOME (donor_validation)
+  pre RMSPE 1.4436; evaluation mean gap -1.8666; cached=FALSE
+[33/375] donor_Illinois DID (donor_validation)
+  pre RMSPE 3.1984; evaluation mean gap -12.3149; cached=FALSE
+[34/375] donor_Indiana SCM_ADH (donor_validation)
+  pre RMSPE 3.7741; evaluation mean gap 20.5582; cached=FALSE
+[35/375] donor_Indiana SCM_OUTCOME (donor_validation)
+  pre RMSPE 3.5908; evaluation mean gap 14.1073; cached=FALSE
+[36/375] donor_Indiana DID (donor_validation)
+  pre RMSPE 6.6631; evaluation mean gap 12.1590; cached=FALSE
+[37/375] donor_Iowa SCM_ADH (donor_validation)
+  pre RMSPE 3.5315; evaluation mean gap 5.0097; cached=FALSE
+[38/375] donor_Iowa SCM_OUTCOME (donor_validation)
+  pre RMSPE 2.4596; evaluation mean gap 3.9683; cached=FALSE
+[39/375] donor_Iowa DID (donor_validation)
+  pre RMSPE 3.5522; evaluation mean gap 7.0590; cached=FALSE
+[40/375] donor_Kansas SCM_ADH (donor_validation)
+  pre RMSPE 3.8385; evaluation mean gap -3.7897; cached=FALSE
+[41/375] donor_Kansas SCM_OUTCOME (donor_validation)
+  pre RMSPE 2.5053; evaluation mean gap -1.4149; cached=FALSE
+[42/375] donor_Kansas DID (donor_validation)
+  pre RMSPE 4.9428; evaluation mean gap -1.6509; cached=FALSE
+[43/375] donor_Kentucky SCM_ADH (donor_validation)
+  pre RMSPE 21.1357; evaluation mean gap 38.2779; cached=FALSE
+[44/375] donor_Kentucky SCM_OUTCOME (donor_validation)
+  pre RMSPE 16.8759; evaluation mean gap 39.2969; cached=FALSE
+[45/375] donor_Kentucky DID (donor_validation)
+  pre RMSPE 15.7638; evaluation mean gap 2.5320; cached=FALSE
+[46/375] donor_Louisiana SCM_ADH (donor_validation)
+  pre RMSPE 1.5533; evaluation mean gap 4.6832; cached=FALSE
+[47/375] donor_Louisiana SCM_OUTCOME (donor_validation)
+  pre RMSPE 0.9907; evaluation mean gap 3.8473; cached=FALSE
+[48/375] donor_Louisiana DID (donor_validation)
+  pre RMSPE 3.9531; evaluation mean gap 2.8649; cached=FALSE
+[49/375] donor_Maine SCM_ADH (donor_validation)
+  pre RMSPE 3.0766; evaluation mean gap -6.4081; cached=FALSE
+[50/375] donor_Maine SCM_OUTCOME (donor_validation)
+  pre RMSPE 2.2660; evaluation mean gap -2.8585; cached=FALSE
+[51/375] donor_Maine DID (donor_validation)
+  pre RMSPE 3.4423; evaluation mean gap -3.4230; cached=FALSE
+[52/375] donor_Minnesota SCM_ADH (donor_validation)
+  pre RMSPE 3.9742; evaluation mean gap 1.8493; cached=FALSE
+[53/375] donor_Minnesota SCM_OUTCOME (donor_validation)
+  pre RMSPE 3.3260; evaluation mean gap -3.6683; cached=FALSE
+[54/375] donor_Minnesota DID (donor_validation)
+  pre RMSPE 6.2787; evaluation mean gap 0.9622; cached=FALSE
+[55/375] donor_Mississippi SCM_ADH (donor_validation)
+  pre RMSPE 2.0340; evaluation mean gap 3.9922; cached=FALSE
+[56/375] donor_Mississippi SCM_OUTCOME (donor_validation)
+  pre RMSPE 1.7365; evaluation mean gap 5.1482; cached=FALSE
+[57/375] donor_Mississippi DID (donor_validation)
+  pre RMSPE 5.7728; evaluation mean gap 17.3243; cached=FALSE
+[58/375] donor_Missouri SCM_ADH (donor_validation)
+  pre RMSPE 1.1430; evaluation mean gap 7.3267; cached=FALSE
+[59/375] donor_Missouri SCM_OUTCOME (donor_validation)
+  pre RMSPE 0.4378; evaluation mean gap 9.0381; cached=FALSE
+[60/375] donor_Missouri DID (donor_validation)
+  pre RMSPE 4.0329; evaluation mean gap 15.4563; cached=FALSE
+[61/375] donor_Montana SCM_ADH (donor_validation)
+  pre RMSPE 2.2993; evaluation mean gap 6.3079; cached=FALSE
+[62/375] donor_Montana SCM_OUTCOME (donor_validation)
+  pre RMSPE 2.1423; evaluation mean gap 6.4382; cached=FALSE
+[63/375] donor_Montana DID (donor_validation)
+  pre RMSPE 5.3804; evaluation mean gap -0.7149; cached=FALSE
+[64/375] donor_Nebraska SCM_ADH (donor_validation)
+  pre RMSPE 2.4815; evaluation mean gap 5.6431; cached=FALSE
+[65/375] donor_Nebraska SCM_OUTCOME (donor_validation)
+  pre RMSPE 0.8970; evaluation mean gap 5.8386; cached=FALSE
+[66/375] donor_Nebraska DID (donor_validation)
+  pre RMSPE 3.5301; evaluation mean gap 6.0928; cached=FALSE
+[67/375] donor_Nevada SCM_ADH (donor_validation)
+  pre RMSPE 7.0443; evaluation mean gap -8.9054; cached=FALSE
+[68/375] donor_Nevada SCM_OUTCOME (donor_validation)
+  pre RMSPE 6.7964; evaluation mean gap -7.4780; cached=FALSE
+[69/375] donor_Nevada DID (donor_validation)
+  pre RMSPE 19.7313; evaluation mean gap -39.3297; cached=FALSE
+[70/375] donor_New_Hampshire SCM_ADH (donor_validation)
+  pre RMSPE 59.0378; evaluation mean gap -13.6250; cached=FALSE
+[71/375] donor_New_Hampshire SCM_OUTCOME (donor_validation)
+  pre RMSPE 58.6225; evaluation mean gap 0.2825; cached=FALSE
+[72/375] donor_New_Hampshire DID (donor_validation)
+  pre RMSPE 30.2158; evaluation mean gap -62.4018; cached=FALSE
+[73/375] donor_New_Mexico SCM_ADH (donor_validation)
+  pre RMSPE 2.1391; evaluation mean gap -8.1659; cached=FALSE
+[74/375] donor_New_Mexico SCM_OUTCOME (donor_validation)
+  pre RMSPE 1.3900; evaluation mean gap -2.2975; cached=FALSE
+[75/375] donor_New_Mexico DID (donor_validation)
+  pre RMSPE 2.7246; evaluation mean gap -0.9914; cached=FALSE
+[76/375] donor_North_Carolina SCM_ADH (donor_validation)
+  pre RMSPE 9.0217; evaluation mean gap -3.0138; cached=FALSE
+[77/375] donor_North_Carolina SCM_OUTCOME (donor_validation)
+  pre RMSPE 9.0216; evaluation mean gap -3.0071; cached=FALSE
+[78/375] donor_North_Carolina DID (donor_validation)
+  pre RMSPE 23.0886; evaluation mean gap -35.8104; cached=FALSE
+[79/375] donor_North_Dakota SCM_ADH (donor_validation)
+  pre RMSPE 3.1920; evaluation mean gap -6.7451; cached=FALSE
+[80/375] donor_North_Dakota SCM_OUTCOME (donor_validation)
+  pre RMSPE 2.7155; evaluation mean gap -6.0543; cached=FALSE
+[81/375] donor_North_Dakota DID (donor_validation)
+  pre RMSPE 5.3379; evaluation mean gap -3.5608; cached=FALSE
+[82/375] donor_Ohio SCM_ADH (donor_validation)
+  pre RMSPE 1.4173; evaluation mean gap 0.0416; cached=FALSE
+[83/375] donor_Ohio SCM_OUTCOME (donor_validation)
+  pre RMSPE 1.3031; evaluation mean gap 0.5310; cached=FALSE
+[84/375] donor_Ohio DID (donor_validation)
+  pre RMSPE 7.6704; evaluation mean gap 11.7338; cached=FALSE
+[85/375] donor_Oklahoma SCM_ADH (donor_validation)
+  pre RMSPE 2.8771; evaluation mean gap 0.2469; cached=FALSE
+[86/375] donor_Oklahoma SCM_OUTCOME (donor_validation)
+  pre RMSPE 1.9614; evaluation mean gap 7.4219; cached=FALSE
+[87/375] donor_Oklahoma DID (donor_validation)
+  pre RMSPE 6.3613; evaluation mean gap 0.4333; cached=FALSE
+[88/375] donor_Pennsylvania SCM_ADH (donor_validation)
+  pre RMSPE 1.8096; evaluation mean gap -0.6658; cached=FALSE
+[89/375] donor_Pennsylvania SCM_OUTCOME (donor_validation)
+  pre RMSPE 1.0163; evaluation mean gap 2.0741; cached=FALSE
+[90/375] donor_Pennsylvania DID (donor_validation)
+  pre RMSPE 5.9676; evaluation mean gap 8.4050; cached=FALSE
+[91/375] donor_Rhode_Island SCM_ADH (donor_validation)
+  pre RMSPE 9.6951; evaluation mean gap -9.7973; cached=FALSE
+[92/375] donor_Rhode_Island SCM_OUTCOME (donor_validation)
+  pre RMSPE 3.7937; evaluation mean gap -25.4713; cached=FALSE
+[93/375] donor_Rhode_Island DID (donor_validation)
+  pre RMSPE 5.5314; evaluation mean gap -17.4338; cached=FALSE
+[94/375] donor_South_Carolina SCM_ADH (donor_validation)
+  pre RMSPE 1.4845; evaluation mean gap 0.2404; cached=FALSE
+[95/375] donor_South_Carolina SCM_OUTCOME (donor_validation)
+  pre RMSPE 1.1841; evaluation mean gap -0.9052; cached=FALSE
+[96/375] donor_South_Carolina DID (donor_validation)
+  pre RMSPE 6.5668; evaluation mean gap 15.2068; cached=FALSE
+[97/375] donor_South_Dakota SCM_ADH (donor_validation)
+  pre RMSPE 2.7234; evaluation mean gap 4.0821; cached=FALSE
+[98/375] donor_South_Dakota SCM_OUTCOME (donor_validation)
+  pre RMSPE 1.1273; evaluation mean gap 6.9797; cached=FALSE
+[99/375] donor_South_Dakota DID (donor_validation)
+  pre RMSPE 2.6790; evaluation mean gap 11.2987; cached=FALSE
+[100/375] donor_Tennessee SCM_ADH (donor_validation)
+  pre RMSPE 2.2813; evaluation mean gap 10.3138; cached=FALSE
+[101/375] donor_Tennessee SCM_OUTCOME (donor_validation)
+  pre RMSPE 2.2758; evaluation mean gap 9.8646; cached=FALSE
+[102/375] donor_Tennessee DID (donor_validation)
+  pre RMSPE 11.5965; evaluation mean gap 26.7685; cached=FALSE
+[103/375] donor_Texas SCM_ADH (donor_validation)
+  pre RMSPE 2.1751; evaluation mean gap -14.7462; cached=FALSE
+[104/375] donor_Texas SCM_OUTCOME (donor_validation)
+  pre RMSPE 1.9172; evaluation mean gap -14.1800; cached=FALSE
+[105/375] donor_Texas DID (donor_validation)
+  pre RMSPE 5.7143; evaluation mean gap -11.6698; cached=FALSE
+[106/375] donor_Utah SCM_ADH (donor_validation)
+  pre RMSPE 24.3673; evaluation mean gap -14.4583; cached=FALSE
+[107/375] donor_Utah SCM_OUTCOME (donor_validation)
+  pre RMSPE 24.3673; evaluation mean gap -14.4583; cached=FALSE
+[108/375] donor_Utah DID (donor_validation)
+  pre RMSPE 3.4452; evaluation mean gap 9.0027; cached=FALSE
+[109/375] donor_Vermont SCM_ADH (donor_validation)
+  pre RMSPE 3.8696; evaluation mean gap -2.6626; cached=FALSE
+[110/375] donor_Vermont SCM_OUTCOME (donor_validation)
+  pre RMSPE 2.5843; evaluation mean gap -9.8814; cached=FALSE
+[111/375] donor_Vermont DID (donor_validation)
+  pre RMSPE 8.2622; evaluation mean gap -9.0977; cached=FALSE
+[112/375] donor_Virginia SCM_ADH (donor_validation)
+  pre RMSPE 1.7108; evaluation mean gap -12.3341; cached=FALSE
+[113/375] donor_Virginia SCM_OUTCOME (donor_validation)
+  pre RMSPE 0.8158; evaluation mean gap -15.5404; cached=FALSE
+[114/375] donor_Virginia DID (donor_validation)
+  pre RMSPE 3.7289; evaluation mean gap -6.9540; cached=FALSE
+[115/375] donor_West_Virginia SCM_ADH (donor_validation)
+  pre RMSPE 2.9684; evaluation mean gap 12.4786; cached=FALSE
+[116/375] donor_West_Virginia SCM_OUTCOME (donor_validation)
+  pre RMSPE 2.5360; evaluation mean gap 11.9512; cached=FALSE
+[117/375] donor_West_Virginia DID (donor_validation)
+  pre RMSPE 3.7988; evaluation mean gap 18.8829; cached=FALSE
+[118/375] donor_Wisconsin SCM_ADH (donor_validation)
+  pre RMSPE 1.7046; evaluation mean gap 8.1137; cached=FALSE
+[119/375] donor_Wisconsin SCM_OUTCOME (donor_validation)
+  pre RMSPE 1.3058; evaluation mean gap 7.6800; cached=FALSE
+[120/375] donor_Wisconsin DID (donor_validation)
+  pre RMSPE 4.3703; evaluation mean gap 9.4653; cached=FALSE
+[121/375] donor_Wyoming SCM_ADH (donor_validation)
+  pre RMSPE 9.6500; evaluation mean gap -1.2486; cached=FALSE
+[122/375] donor_Wyoming SCM_OUTCOME (donor_validation)
+  pre RMSPE 5.4215; evaluation mean gap 0.8141; cached=FALSE
+[123/375] donor_Wyoming DID (donor_validation)
+  pre RMSPE 9.7584; evaluation mean gap -8.5437; cached=FALSE
+[124/375] classic_Alabama SCM_ADH (classic_placebo)
+  pre RMSPE 2.4300; evaluation mean gap 1.0772; cached=FALSE
+[125/375] classic_Alabama SCM_OUTCOME (classic_placebo)
+  pre RMSPE 1.8205; evaluation mean gap 2.2904; cached=FALSE
+[126/375] classic_Alabama DID (classic_placebo)
+  pre RMSPE 9.2566; evaluation mean gap 22.3219; cached=FALSE
+[127/375] classic_Arkansas SCM_ADH (classic_placebo)
+  pre RMSPE 2.1351; evaluation mean gap -3.1180; cached=FALSE
+[128/375] classic_Arkansas SCM_OUTCOME (classic_placebo)
+  pre RMSPE 2.0494; evaluation mean gap -0.8719; cached=FALSE
+[129/375] classic_Arkansas DID (classic_placebo)
+  pre RMSPE 11.3132; evaluation mean gap 22.1684; cached=FALSE
+[130/375] classic_California SCM_ADH (classic_placebo)
+  pre RMSPE 1.7794; evaluation mean gap -18.8456; cached=TRUE
+[131/375] classic_California SCM_OUTCOME (classic_placebo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=TRUE
+[132/375] classic_California DID (classic_placebo)
+  pre RMSPE 7.1572; evaluation mean gap -27.3491; cached=TRUE
+[133/375] classic_Colorado SCM_ADH (classic_placebo)
+  pre RMSPE 3.9784; evaluation mean gap 5.5522; cached=FALSE
+[134/375] classic_Colorado SCM_OUTCOME (classic_placebo)
+  pre RMSPE 2.8957; evaluation mean gap -5.9605; cached=FALSE
+[135/375] classic_Colorado DID (classic_placebo)
+  pre RMSPE 6.5613; evaluation mean gap -11.2945; cached=FALSE
+[136/375] classic_Connecticut SCM_ADH (classic_placebo)
+  pre RMSPE 4.4770; evaluation mean gap -2.0782; cached=FALSE
+[137/375] classic_Connecticut SCM_OUTCOME (classic_placebo)
+  pre RMSPE 2.9474; evaluation mean gap -13.4418; cached=FALSE
+[138/375] classic_Connecticut DID (classic_placebo)
+  pre RMSPE 7.5004; evaluation mean gap -3.5012; cached=FALSE
+[139/375] classic_Delaware SCM_ADH (classic_placebo)
+  pre RMSPE 6.2033; evaluation mean gap 18.4829; cached=FALSE
+[140/375] classic_Delaware SCM_OUTCOME (classic_placebo)
+  pre RMSPE 3.4245; evaluation mean gap 9.8733; cached=FALSE
+[141/375] classic_Delaware DID (classic_placebo)
+  pre RMSPE 7.4069; evaluation mean gap 7.5564; cached=FALSE
+[142/375] classic_Georgia SCM_ADH (classic_placebo)
+  pre RMSPE 1.2323; evaluation mean gap -10.1959; cached=FALSE
+[143/375] classic_Georgia SCM_OUTCOME (classic_placebo)
+  pre RMSPE 1.0921; evaluation mean gap -8.8069; cached=FALSE
+[144/375] classic_Georgia DID (classic_placebo)
+  pre RMSPE 8.6460; evaluation mean gap 8.4689; cached=FALSE
+[145/375] classic_Idaho SCM_ADH (classic_placebo)
+  pre RMSPE 2.3787; evaluation mean gap 1.8544; cached=FALSE
+[146/375] classic_Idaho SCM_OUTCOME (classic_placebo)
+  pre RMSPE 2.1559; evaluation mean gap 1.9306; cached=FALSE
+[147/375] classic_Idaho DID (classic_placebo)
+  pre RMSPE 6.2232; evaluation mean gap -2.4592; cached=FALSE
+[148/375] classic_Illinois SCM_ADH (classic_placebo)
+  pre RMSPE 2.4269; evaluation mean gap -3.0994; cached=FALSE
+[149/375] classic_Illinois SCM_OUTCOME (classic_placebo)
+  pre RMSPE 1.4428; evaluation mean gap -0.8963; cached=FALSE
+[150/375] classic_Illinois DID (classic_placebo)
+  pre RMSPE 3.1056; evaluation mean gap -11.5866; cached=FALSE
+[151/375] classic_Indiana SCM_ADH (classic_placebo)
+  pre RMSPE 3.7736; evaluation mean gap 20.6742; cached=FALSE
+[152/375] classic_Indiana SCM_OUTCOME (classic_placebo)
+  pre RMSPE 3.5908; evaluation mean gap 14.1073; cached=FALSE
+[153/375] classic_Indiana DID (classic_placebo)
+  pre RMSPE 6.6012; evaluation mean gap 12.8703; cached=FALSE
+[154/375] classic_Iowa SCM_ADH (classic_placebo)
+  pre RMSPE 3.5090; evaluation mean gap 5.1302; cached=FALSE
+[155/375] classic_Iowa SCM_OUTCOME (classic_placebo)
+  pre RMSPE 2.4596; evaluation mean gap 3.9683; cached=FALSE
+[156/375] classic_Iowa DID (classic_placebo)
+  pre RMSPE 3.5911; evaluation mean gap 7.7738; cached=FALSE
+[157/375] classic_Kansas SCM_ADH (classic_placebo)
+  pre RMSPE 3.8083; evaluation mean gap -1.2144; cached=FALSE
+[158/375] classic_Kansas SCM_OUTCOME (classic_placebo)
+  pre RMSPE 2.5053; evaluation mean gap -1.4149; cached=FALSE
+[159/375] classic_Kansas DID (classic_placebo)
+  pre RMSPE 5.0407; evaluation mean gap -0.9300; cached=FALSE
+[160/375] classic_Kentucky SCM_ADH (classic_placebo)
+  pre RMSPE 20.8592; evaluation mean gap 38.3574; cached=FALSE
+[161/375] classic_Kentucky SCM_OUTCOME (classic_placebo)
+  pre RMSPE 16.8759; evaluation mean gap 39.2969; cached=FALSE
+[162/375] classic_Kentucky DID (classic_placebo)
+  pre RMSPE 15.8127; evaluation mean gap 3.2500; cached=FALSE
+[163/375] classic_Louisiana SCM_ADH (classic_placebo)
+  pre RMSPE 1.5656; evaluation mean gap 4.6703; cached=FALSE
+[164/375] classic_Louisiana SCM_OUTCOME (classic_placebo)
+  pre RMSPE 0.9907; evaluation mean gap 3.8473; cached=FALSE
+[165/375] classic_Louisiana DID (classic_placebo)
+  pre RMSPE 4.0814; evaluation mean gap 3.5826; cached=FALSE
+[166/375] classic_Maine SCM_ADH (classic_placebo)
+  pre RMSPE 3.0728; evaluation mean gap -6.1292; cached=FALSE
+[167/375] classic_Maine SCM_OUTCOME (classic_placebo)
+  pre RMSPE 2.2660; evaluation mean gap -2.8585; cached=FALSE
+[168/375] classic_Maine DID (classic_placebo)
+  pre RMSPE 3.3863; evaluation mean gap -2.7009; cached=FALSE
+[169/375] classic_Minnesota SCM_ADH (classic_placebo)
+  pre RMSPE 4.0109; evaluation mean gap 8.0177; cached=FALSE
+[170/375] classic_Minnesota SCM_OUTCOME (classic_placebo)
+  pre RMSPE 3.3260; evaluation mean gap -3.6683; cached=FALSE
+[171/375] classic_Minnesota DID (classic_placebo)
+  pre RMSPE 6.3241; evaluation mean gap 1.6812; cached=FALSE
+[172/375] classic_Mississippi SCM_ADH (classic_placebo)
+  pre RMSPE 2.0318; evaluation mean gap 4.0438; cached=FALSE
+[173/375] classic_Mississippi SCM_OUTCOME (classic_placebo)
+  pre RMSPE 1.7365; evaluation mean gap 5.1482; cached=FALSE
+[174/375] classic_Mississippi DID (classic_placebo)
+  pre RMSPE 5.9359; evaluation mean gap 18.0321; cached=FALSE
+[175/375] classic_Missouri SCM_ADH (classic_placebo)
+  pre RMSPE 1.1405; evaluation mean gap 7.4134; cached=FALSE
+[176/375] classic_Missouri SCM_OUTCOME (classic_placebo)
+  pre RMSPE 0.4378; evaluation mean gap 9.0381; cached=FALSE
+[177/375] classic_Missouri DID (classic_placebo)
+  pre RMSPE 4.1417; evaluation mean gap 16.1653; cached=FALSE
+[178/375] classic_Montana SCM_ADH (classic_placebo)
+  pre RMSPE 2.2999; evaluation mean gap 6.2875; cached=FALSE
+[179/375] classic_Montana SCM_OUTCOME (classic_placebo)
+  pre RMSPE 2.0194; evaluation mean gap 12.1121; cached=FALSE
+[180/375] classic_Montana DID (classic_placebo)
+  pre RMSPE 5.2264; evaluation mean gap 0.0054; cached=FALSE
+[181/375] classic_Nebraska SCM_ADH (classic_placebo)
+  pre RMSPE 2.4161; evaluation mean gap 6.0806; cached=FALSE
+[182/375] classic_Nebraska SCM_OUTCOME (classic_placebo)
+  pre RMSPE 0.8434; evaluation mean gap 8.1187; cached=FALSE
+[183/375] classic_Nebraska DID (classic_placebo)
+  pre RMSPE 3.5190; evaluation mean gap 6.8083; cached=FALSE
+[184/375] classic_Nevada SCM_ADH (classic_placebo)
+  pre RMSPE 7.0192; evaluation mean gap -2.4401; cached=FALSE
+[185/375] classic_Nevada SCM_OUTCOME (classic_placebo)
+  pre RMSPE 6.3500; evaluation mean gap 0.7510; cached=FALSE
+[186/375] classic_Nevada DID (classic_placebo)
+  pre RMSPE 19.5491; evaluation mean gap -38.5828; cached=FALSE
+[187/375] classic_New_Hampshire SCM_ADH (classic_placebo)
+  pre RMSPE 59.0378; evaluation mean gap -13.6250; cached=FALSE
+[188/375] classic_New_Hampshire SCM_OUTCOME (classic_placebo)
+  pre RMSPE 58.6225; evaluation mean gap 0.2825; cached=FALSE
+[189/375] classic_New_Hampshire DID (classic_placebo)
+  pre RMSPE 30.0349; evaluation mean gap -61.6389; cached=FALSE
+[190/375] classic_New_Mexico SCM_ADH (classic_placebo)
+  pre RMSPE 2.1926; evaluation mean gap -8.1396; cached=FALSE
+[191/375] classic_New_Mexico SCM_OUTCOME (classic_placebo)
+  pre RMSPE 1.3865; evaluation mean gap -1.8539; cached=FALSE
+[192/375] classic_New_Mexico DID (classic_placebo)
+  pre RMSPE 2.6083; evaluation mean gap -0.2710; cached=FALSE
+[193/375] classic_North_Carolina SCM_ADH (classic_placebo)
+  pre RMSPE 9.0285; evaluation mean gap -3.2566; cached=FALSE
+[194/375] classic_North_Carolina SCM_OUTCOME (classic_placebo)
+  pre RMSPE 9.0216; evaluation mean gap -3.0071; cached=FALSE
+[195/375] classic_North_Carolina DID (classic_placebo)
+  pre RMSPE 22.9494; evaluation mean gap -35.0658; cached=FALSE
+[196/375] classic_North_Dakota SCM_ADH (classic_placebo)
+  pre RMSPE 3.1733; evaluation mean gap -7.3096; cached=FALSE
+[197/375] classic_North_Dakota SCM_OUTCOME (classic_placebo)
+  pre RMSPE 2.7155; evaluation mean gap -6.0543; cached=FALSE
+[198/375] classic_North_Dakota DID (classic_placebo)
+  pre RMSPE 5.4345; evaluation mean gap -2.8386; cached=FALSE
+[199/375] classic_Ohio SCM_ADH (classic_placebo)
+  pre RMSPE 1.4805; evaluation mean gap -0.0405; cached=FALSE
+[200/375] classic_Ohio SCM_OUTCOME (classic_placebo)
+  pre RMSPE 1.3031; evaluation mean gap 0.5310; cached=FALSE
+[201/375] classic_Ohio DID (classic_placebo)
+  pre RMSPE 7.7338; evaluation mean gap 12.4454; cached=FALSE
+[202/375] classic_Oklahoma SCM_ADH (classic_placebo)
+  pre RMSPE 3.0079; evaluation mean gap 2.0633; cached=FALSE
+[203/375] classic_Oklahoma SCM_OUTCOME (classic_placebo)
+  pre RMSPE 1.9614; evaluation mean gap 7.4219; cached=FALSE
+[204/375] classic_Oklahoma DID (classic_placebo)
+  pre RMSPE 6.4782; evaluation mean gap 1.1528; cached=FALSE
+[205/375] classic_Pennsylvania SCM_ADH (classic_placebo)
+  pre RMSPE 1.7579; evaluation mean gap -0.1193; cached=FALSE
+[206/375] classic_Pennsylvania SCM_OUTCOME (classic_placebo)
+  pre RMSPE 1.0163; evaluation mean gap 2.0741; cached=FALSE
+[207/375] classic_Pennsylvania DID (classic_placebo)
+  pre RMSPE 6.0828; evaluation mean gap 9.1189; cached=FALSE
+[208/375] classic_Rhode_Island SCM_ADH (classic_placebo)
+  pre RMSPE 10.6188; evaluation mean gap -20.4975; cached=FALSE
+[209/375] classic_Rhode_Island SCM_OUTCOME (classic_placebo)
+  pre RMSPE 3.7937; evaluation mean gap -25.4713; cached=FALSE
+[210/375] classic_Rhode_Island DID (classic_placebo)
+  pre RMSPE 5.6255; evaluation mean gap -16.7020; cached=FALSE
+[211/375] classic_South_Carolina SCM_ADH (classic_placebo)
+  pre RMSPE 1.4808; evaluation mean gap 0.1328; cached=FALSE
+[212/375] classic_South_Carolina SCM_OUTCOME (classic_placebo)
+  pre RMSPE 1.1841; evaluation mean gap -0.9052; cached=FALSE
+[213/375] classic_South_Carolina DID (classic_placebo)
+  pre RMSPE 6.7329; evaluation mean gap 15.9160; cached=FALSE
+[214/375] classic_South_Dakota SCM_ADH (classic_placebo)
+  pre RMSPE 2.8456; evaluation mean gap 4.0483; cached=FALSE
+[215/375] classic_South_Dakota SCM_OUTCOME (classic_placebo)
+  pre RMSPE 1.1273; evaluation mean gap 6.9797; cached=FALSE
+[216/375] classic_South_Dakota DID (classic_placebo)
+  pre RMSPE 2.8310; evaluation mean gap 12.0106; cached=FALSE
+[217/375] classic_Tennessee SCM_ADH (classic_placebo)
+  pre RMSPE 2.2813; evaluation mean gap 10.3211; cached=FALSE
+[218/375] classic_Tennessee SCM_OUTCOME (classic_placebo)
+  pre RMSPE 2.2758; evaluation mean gap 9.8646; cached=FALSE
+[219/375] classic_Tennessee DID (classic_placebo)
+  pre RMSPE 11.7397; evaluation mean gap 27.4697; cached=FALSE
+[220/375] classic_Texas SCM_ADH (classic_placebo)
+  pre RMSPE 2.1606; evaluation mean gap -14.9186; cached=FALSE
+[221/375] classic_Texas SCM_OUTCOME (classic_placebo)
+  pre RMSPE 1.9172; evaluation mean gap -14.1800; cached=FALSE
+[222/375] classic_Texas DID (classic_placebo)
+  pre RMSPE 5.8260; evaluation mean gap -10.9420; cached=FALSE
+[223/375] classic_Utah SCM_ADH (classic_placebo)
+  pre RMSPE 24.3673; evaluation mean gap -14.4583; cached=FALSE
+[224/375] classic_Utah SCM_OUTCOME (classic_placebo)
+  pre RMSPE 24.3673; evaluation mean gap -14.4583; cached=FALSE
+[225/375] classic_Utah DID (classic_placebo)
+  pre RMSPE 3.4133; evaluation mean gap 9.7162; cached=FALSE
+[226/375] classic_Vermont SCM_ADH (classic_placebo)
+  pre RMSPE 3.8820; evaluation mean gap -10.8403; cached=FALSE
+[227/375] classic_Vermont SCM_OUTCOME (classic_placebo)
+  pre RMSPE 2.5843; evaluation mean gap -9.8814; cached=FALSE
+[228/375] classic_Vermont DID (classic_placebo)
+  pre RMSPE 8.3643; evaluation mean gap -8.3717; cached=FALSE
+[229/375] classic_Virginia SCM_ADH (classic_placebo)
+  pre RMSPE 1.8996; evaluation mean gap -14.9394; cached=FALSE
+[230/375] classic_Virginia SCM_OUTCOME (classic_placebo)
+  pre RMSPE 0.8158; evaluation mean gap -15.5404; cached=FALSE
+[231/375] classic_Virginia DID (classic_placebo)
+  pre RMSPE 3.8411; evaluation mean gap -6.2295; cached=FALSE
+[232/375] classic_West_Virginia SCM_ADH (classic_placebo)
+  pre RMSPE 2.8837; evaluation mean gap 12.6322; cached=FALSE
+[233/375] classic_West_Virginia SCM_OUTCOME (classic_placebo)
+  pre RMSPE 2.5176; evaluation mean gap 14.8617; cached=FALSE
+[234/375] classic_West_Virginia DID (classic_placebo)
+  pre RMSPE 3.7721; evaluation mean gap 19.5895; cached=FALSE
+[235/375] classic_Wisconsin SCM_ADH (classic_placebo)
+  pre RMSPE 1.7236; evaluation mean gap 8.0522; cached=FALSE
+[236/375] classic_Wisconsin SCM_OUTCOME (classic_placebo)
+  pre RMSPE 1.3058; evaluation mean gap 7.6800; cached=FALSE
+[237/375] classic_Wisconsin DID (classic_placebo)
+  pre RMSPE 4.4006; evaluation mean gap 10.1785; cached=FALSE
+[238/375] classic_Wyoming SCM_ADH (classic_placebo)
+  pre RMSPE 9.6040; evaluation mean gap -1.8303; cached=FALSE
+[239/375] classic_Wyoming SCM_OUTCOME (classic_placebo)
+  pre RMSPE 5.4215; evaluation mean gap 0.8141; cached=FALSE
+[240/375] classic_Wyoming DID (classic_placebo)
+  pre RMSPE 9.7279; evaluation mean gap -7.8181; cached=FALSE
+[241/375] LOO_Alabama SCM_ADH (loo)
+  pre RMSPE 1.7792; evaluation mean gap -18.8885; cached=FALSE
+[242/375] LOO_Alabama SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[243/375] LOO_Alabama DID (loo)
+  pre RMSPE 6.9515; evaluation mean gap -26.7802; cached=FALSE
+[244/375] LOO_Arkansas SCM_ADH (loo)
+  pre RMSPE 1.7764; evaluation mean gap -18.8053; cached=FALSE
+[245/375] LOO_Arkansas SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[246/375] LOO_Arkansas DID (loo)
+  pre RMSPE 6.9192; evaluation mean gap -26.7843; cached=FALSE
+[247/375] LOO_Colorado SCM_ADH (loo)
+  pre RMSPE 1.7993; evaluation mean gap -19.2844; cached=FALSE
+[248/375] LOO_Colorado SCM_OUTCOME (loo)
+  pre RMSPE 1.6571; evaluation mean gap -19.6028; cached=FALSE
+[249/375] LOO_Colorado DID (loo)
+  pre RMSPE 7.2991; evaluation mean gap -27.6655; cached=FALSE
+[250/375] LOO_Connecticut SCM_ADH (loo)
+  pre RMSPE 1.9727; evaluation mean gap -18.6998; cached=FALSE
+[251/375] LOO_Connecticut SCM_OUTCOME (loo)
+  pre RMSPE 1.8118; evaluation mean gap -20.5135; cached=FALSE
+[252/375] LOO_Connecticut DID (loo)
+  pre RMSPE 7.1877; evaluation mean gap -27.4603; cached=FALSE
+[253/375] LOO_Delaware SCM_ADH (loo)
+  pre RMSPE 1.7792; evaluation mean gap -18.8759; cached=FALSE
+[254/375] LOO_Delaware SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[255/375] LOO_Delaware DID (loo)
+  pre RMSPE 7.2582; evaluation mean gap -27.1691; cached=FALSE
+[256/375] LOO_Georgia SCM_ADH (loo)
+  pre RMSPE 1.7780; evaluation mean gap -18.8808; cached=FALSE
+[257/375] LOO_Georgia SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[258/375] LOO_Georgia DID (loo)
+  pre RMSPE 7.0085; evaluation mean gap -27.1450; cached=FALSE
+[259/375] LOO_Idaho SCM_ADH (loo)
+  pre RMSPE 1.7686; evaluation mean gap -18.8976; cached=FALSE
+[260/375] LOO_Idaho SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[261/375] LOO_Idaho DID (loo)
+  pre RMSPE 7.2827; evaluation mean gap -27.4328; cached=FALSE
+[262/375] LOO_Illinois SCM_ADH (loo)
+  pre RMSPE 1.7604; evaluation mean gap -18.9530; cached=FALSE
+[263/375] LOO_Illinois SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[264/375] LOO_Illinois DID (loo)
+  pre RMSPE 7.2000; evaluation mean gap -27.6732; cached=FALSE
+[265/375] LOO_Indiana SCM_ADH (loo)
+  pre RMSPE 1.7804; evaluation mean gap -18.8410; cached=FALSE
+[266/375] LOO_Indiana SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[267/375] LOO_Indiana DID (loo)
+  pre RMSPE 7.2147; evaluation mean gap -27.0291; cached=FALSE
+[268/375] LOO_Iowa SCM_ADH (loo)
+  pre RMSPE 1.7793; evaluation mean gap -18.8491; cached=FALSE
+[269/375] LOO_Iowa SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[270/375] LOO_Iowa DID (loo)
+  pre RMSPE 7.1396; evaluation mean gap -27.1633; cached=FALSE
+[271/375] LOO_Kansas SCM_ADH (loo)
+  pre RMSPE 1.7674; evaluation mean gap -18.9393; cached=FALSE
+[272/375] LOO_Kansas SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[273/375] LOO_Kansas DID (loo)
+  pre RMSPE 7.0898; evaluation mean gap -27.3926; cached=FALSE
+[274/375] LOO_Kentucky SCM_ADH (loo)
+  pre RMSPE 1.7842; evaluation mean gap -18.7755; cached=FALSE
+[275/375] LOO_Kentucky SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[276/375] LOO_Kentucky DID (loo)
+  pre RMSPE 7.0387; evaluation mean gap -27.2825; cached=FALSE
+[277/375] LOO_Louisiana SCM_ADH (loo)
+  pre RMSPE 1.7784; evaluation mean gap -18.8723; cached=FALSE
+[278/375] LOO_Louisiana SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[279/375] LOO_Louisiana DID (loo)
+  pre RMSPE 7.0865; evaluation mean gap -27.2737; cached=FALSE
+[280/375] LOO_Maine SCM_ADH (loo)
+  pre RMSPE 1.7804; evaluation mean gap -18.8607; cached=FALSE
+[281/375] LOO_Maine SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[282/375] LOO_Maine DID (loo)
+  pre RMSPE 7.1858; evaluation mean gap -27.4392; cached=FALSE
+[283/375] LOO_Minnesota SCM_ADH (loo)
+  pre RMSPE 1.7787; evaluation mean gap -18.8332; cached=FALSE
+[284/375] LOO_Minnesota SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[285/375] LOO_Minnesota DID (loo)
+  pre RMSPE 7.1176; evaluation mean gap -27.3238; cached=FALSE
+[286/375] LOO_Mississippi SCM_ADH (loo)
+  pre RMSPE 1.7785; evaluation mean gap -18.8884; cached=FALSE
+[287/375] LOO_Mississippi SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[288/375] LOO_Mississippi DID (loo)
+  pre RMSPE 7.0232; evaluation mean gap -26.8932; cached=FALSE
+[289/375] LOO_Missouri SCM_ADH (loo)
+  pre RMSPE 1.7784; evaluation mean gap -18.8589; cached=FALSE
+[290/375] LOO_Missouri SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[291/375] LOO_Missouri DID (loo)
+  pre RMSPE 7.0965; evaluation mean gap -26.9424; cached=FALSE
+[292/375] LOO_Montana SCM_ADH (loo)
+  pre RMSPE 1.9274; evaluation mean gap -17.6129; cached=FALSE
+[293/375] LOO_Montana SCM_OUTCOME (loo)
+  pre RMSPE 1.7630; evaluation mean gap -17.9683; cached=FALSE
+[294/375] LOO_Montana DID (loo)
+  pre RMSPE 7.2716; evaluation mean gap -27.3679; cached=FALSE
+[295/375] LOO_Nebraska SCM_ADH (loo)
+  pre RMSPE 1.7790; evaluation mean gap -18.8379; cached=FALSE
+[296/375] LOO_Nebraska SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[297/375] LOO_Nebraska DID (loo)
+  pre RMSPE 7.1645; evaluation mean gap -27.1888; cached=FALSE
+[298/375] LOO_Nevada SCM_ADH (loo)
+  pre RMSPE 2.4317; evaluation mean gap -20.6153; cached=FALSE
+[299/375] LOO_Nevada SCM_OUTCOME (loo)
+  pre RMSPE 2.2171; evaluation mean gap -19.1740; cached=FALSE
+[300/375] LOO_Nevada DID (loo)
+  pre RMSPE 7.6258; evaluation mean gap -28.3841; cached=FALSE
+[301/375] LOO_New_Hampshire SCM_ADH (loo)
+  pre RMSPE 1.7659; evaluation mean gap -18.9192; cached=FALSE
+[302/375] LOO_New_Hampshire SCM_OUTCOME (loo)
+  pre RMSPE 1.6968; evaluation mean gap -19.7800; cached=FALSE
+[303/375] LOO_New_Hampshire DID (loo)
+  pre RMSPE 7.8445; evaluation mean gap -28.9913; cached=FALSE
+[304/375] LOO_New_Mexico SCM_ADH (loo)
+  pre RMSPE 1.7650; evaluation mean gap -18.9472; cached=FALSE
+[305/375] LOO_New_Mexico SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[306/375] LOO_New_Mexico DID (loo)
+  pre RMSPE 7.2025; evaluation mean gap -27.3752; cached=FALSE
+[307/375] LOO_North_Carolina SCM_ADH (loo)
+  pre RMSPE 1.7869; evaluation mean gap -18.8017; cached=FALSE
+[308/375] LOO_North_Carolina SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[309/375] LOO_North_Carolina DID (loo)
+  pre RMSPE 7.5700; evaluation mean gap -28.2915; cached=FALSE
+[310/375] LOO_North_Dakota SCM_ADH (loo)
+  pre RMSPE 1.7817; evaluation mean gap -18.8506; cached=FALSE
+[311/375] LOO_North_Dakota SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[312/375] LOO_North_Dakota DID (loo)
+  pre RMSPE 7.0852; evaluation mean gap -27.4428; cached=FALSE
+[313/375] LOO_Ohio SCM_ADH (loo)
+  pre RMSPE 1.7811; evaluation mean gap -18.8768; cached=FALSE
+[314/375] LOO_Ohio SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[315/375] LOO_Ohio DID (loo)
+  pre RMSPE 7.0883; evaluation mean gap -27.0403; cached=FALSE
+[316/375] LOO_Oklahoma SCM_ADH (loo)
+  pre RMSPE 1.7786; evaluation mean gap -18.8711; cached=FALSE
+[317/375] LOO_Oklahoma SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[318/375] LOO_Oklahoma DID (loo)
+  pre RMSPE 7.0520; evaluation mean gap -27.3377; cached=FALSE
+[319/375] LOO_Pennsylvania SCM_ADH (loo)
+  pre RMSPE 1.7781; evaluation mean gap -18.8303; cached=FALSE
+[320/375] LOO_Pennsylvania SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[321/375] LOO_Pennsylvania DID (loo)
+  pre RMSPE 7.0602; evaluation mean gap -27.1279; cached=FALSE
+[322/375] LOO_Rhode_Island SCM_ADH (loo)
+  pre RMSPE 1.7797; evaluation mean gap -18.8036; cached=FALSE
+[323/375] LOO_Rhode_Island SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[324/375] LOO_Rhode_Island DID (loo)
+  pre RMSPE 7.0844; evaluation mean gap -27.8079; cached=FALSE
+[325/375] LOO_South_Carolina SCM_ADH (loo)
+  pre RMSPE 1.7703; evaluation mean gap -18.9194; cached=FALSE
+[326/375] LOO_South_Carolina SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[327/375] LOO_South_Carolina DID (loo)
+  pre RMSPE 7.0015; evaluation mean gap -26.9489; cached=FALSE
+[328/375] LOO_South_Dakota SCM_ADH (loo)
+  pre RMSPE 1.7774; evaluation mean gap -18.8788; cached=FALSE
+[329/375] LOO_South_Dakota SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[330/375] LOO_South_Dakota DID (loo)
+  pre RMSPE 7.1005; evaluation mean gap -27.0518; cached=FALSE
+[331/375] LOO_Tennessee SCM_ADH (loo)
+  pre RMSPE 1.7821; evaluation mean gap -18.8350; cached=FALSE
+[332/375] LOO_Tennessee SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[333/375] LOO_Tennessee DID (loo)
+  pre RMSPE 6.9154; evaluation mean gap -26.6447; cached=FALSE
+[334/375] LOO_Texas SCM_ADH (loo)
+  pre RMSPE 1.7785; evaluation mean gap -18.8946; cached=FALSE
+[335/375] LOO_Texas SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[336/375] LOO_Texas DID (loo)
+  pre RMSPE 7.0674; evaluation mean gap -27.6562; cached=FALSE
+[337/375] LOO_Utah SCM_ADH (loo)
+  pre RMSPE 2.7427; evaluation mean gap -18.1627; cached=FALSE
+[338/375] LOO_Utah SCM_OUTCOME (loo)
+  pre RMSPE 2.3761; evaluation mean gap -19.1371; cached=FALSE
+[339/375] LOO_Utah DID (loo)
+  pre RMSPE 7.1744; evaluation mean gap -27.1122; cached=FALSE
+[340/375] LOO_Vermont SCM_ADH (loo)
+  pre RMSPE 1.7883; evaluation mean gap -18.8378; cached=FALSE
+[341/375] LOO_Vermont SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[342/375] LOO_Vermont DID (loo)
+  pre RMSPE 7.0368; evaluation mean gap -27.5885; cached=FALSE
+[343/375] LOO_Virginia SCM_ADH (loo)
+  pre RMSPE 1.7821; evaluation mean gap -18.7859; cached=FALSE
+[344/375] LOO_Virginia SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[345/375] LOO_Virginia DID (loo)
+  pre RMSPE 7.0994; evaluation mean gap -27.5321; cached=FALSE
+[346/375] LOO_West_Virginia SCM_ADH (loo)
+  pre RMSPE 1.7788; evaluation mean gap -18.8767; cached=FALSE
+[347/375] LOO_West_Virginia SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[348/375] LOO_West_Virginia DID (loo)
+  pre RMSPE 7.1731; evaluation mean gap -26.8522; cached=FALSE
+[349/375] LOO_Wisconsin SCM_ADH (loo)
+  pre RMSPE 1.7792; evaluation mean gap -18.8700; cached=FALSE
+[350/375] LOO_Wisconsin SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[351/375] LOO_Wisconsin DID (loo)
+  pre RMSPE 7.1401; evaluation mean gap -27.1000; cached=FALSE
+[352/375] LOO_Wyoming SCM_ADH (loo)
+  pre RMSPE 1.7801; evaluation mean gap -18.8248; cached=FALSE
+[353/375] LOO_Wyoming SCM_OUTCOME (loo)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[354/375] LOO_Wyoming DID (loo)
+  pre RMSPE 7.1965; evaluation mean gap -27.5739; cached=FALSE
+[355/375] window_1970 SCM_OUTCOME (training_window)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=TRUE
+[356/375] window_1970 DID (training_window)
+  pre RMSPE 7.1572; evaluation mean gap -27.3491; cached=TRUE
+[357/375] window_1975 SCM_OUTCOME (training_window)
+  pre RMSPE 0.2729; evaluation mean gap -20.1903; cached=FALSE
+[358/375] window_1975 DID (training_window)
+  pre RMSPE 3.6662; evaluation mean gap -23.7019; cached=FALSE
+[359/375] window_1980 SCM_OUTCOME (training_window)
+  pre RMSPE 0.2202; evaluation mean gap -20.9406; cached=FALSE
+[360/375] window_1980 DID (training_window)
+  pre RMSPE 1.4552; evaluation mean gap -21.2920; cached=FALSE
+[361/375] drop_lnincome SCM_ADH (predictor_deletion)
+  pre RMSPE 2.4009; evaluation mean gap -20.5738; cached=FALSE
+[362/375] drop_retprice SCM_ADH (predictor_deletion)
+  pre RMSPE 1.9300; evaluation mean gap -17.6347; cached=FALSE
+[363/375] drop_age15to24 SCM_ADH (predictor_deletion)
+  pre RMSPE 1.7934; evaluation mean gap -18.7564; cached=FALSE
+[364/375] drop_beer SCM_ADH (predictor_deletion)
+  pre RMSPE 1.9294; evaluation mean gap -17.5015; cached=FALSE
+[365/375] drop_cigsale_1975 SCM_ADH (predictor_deletion)
+  pre RMSPE 4.2210; evaluation mean gap -19.3596; cached=FALSE
+[366/375] drop_cigsale_1980 SCM_ADH (predictor_deletion)
+  pre RMSPE 1.7617; evaluation mean gap -18.9460; cached=FALSE
+[367/375] drop_cigsale_1988 SCM_ADH (predictor_deletion)
+  pre RMSPE 1.9313; evaluation mean gap -17.5519; cached=FALSE
+[368/375] time_1981 SCM_OUTCOME (time_placebo)
+  pre RMSPE 0.8378; evaluation mean gap -3.3063; cached=TRUE
+[369/375] time_1981 DID (time_placebo)
+  pre RMSPE 6.0317; evaluation mean gap -11.0077; cached=TRUE
+[370/375] time_1985 SCM_OUTCOME (time_placebo)
+  pre RMSPE 0.8593; evaluation mean gap -6.1286; cached=TRUE
+[371/375] time_1985 DID (time_placebo)
+  pre RMSPE 6.9467; evaluation mean gap -8.7353; cached=TRUE
+[372/375] near_policy_post SCM_OUTCOME (near_policy)
+  pre RMSPE 1.1572; evaluation mean gap -18.5564; cached=FALSE
+[373/375] near_policy_diagnostic SCM_OUTCOME (near_policy_diagnostic)
+  pre RMSPE 1.1572; evaluation mean gap -5.8804; cached=TRUE
+[374/375] near_policy_post DID (near_policy)
+  pre RMSPE 7.0268; evaluation mean gap -28.2369; cached=FALSE
+[375/375] near_policy_diagnostic DID (near_policy_diagnostic)
+  pre RMSPE 7.0268; evaluation mean gap -8.4341; cached=TRUE
+Stage completed at 2026-11-15T14:38:11.811Z 

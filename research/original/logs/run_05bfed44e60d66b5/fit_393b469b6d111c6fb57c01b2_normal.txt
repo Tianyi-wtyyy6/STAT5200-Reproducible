@@ -1,0 +1,1 @@
+fit_id: fit_393b469b6d111c6fb57c01b2  UTC: 2026-11-15T14:27:23.818Z  target: Connecticut  method: DID 

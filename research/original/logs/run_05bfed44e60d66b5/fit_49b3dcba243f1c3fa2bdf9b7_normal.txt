@@ -1,0 +1,44 @@
+fit_id: fit_49b3dcba243f1c3fa2bdf9b7  UTC: 2026-11-15T14:27:01.452Z  target: Arkansas  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                      p1            p2          p3         p4          p5
+Nelder-Mead -0.003056176 -1.633486e-06  0.01319435  0.2770478   0.2953993
+BFGS        -0.532164141 -2.298490e-03 -0.67569574 -2.4605362 128.4594379
+                    p6          p7     value fevals gevals niter convcode kkt1
+Nelder-Mead  0.2334028   0.1781541 10.176205    502     NA    NA        1   NA
+BFGS        -6.7399259 -71.4441549  4.791609    227     77    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.853
+BFGS          NA 4.964
+                      p1          p2            p3          p4        p5
+Nelder-Mead  0.010625538 0.001963751 -0.0049494623 0.014411494 0.7878971
+BFGS        -0.004256941 0.009565219 -0.0003914566 0.007678032 0.5267615
+                   p6           p7    value fevals gevals niter convcode kkt1
+Nelder-Mead 0.2674049 0.0002967722 4.558789    501     NA    NA        1   NA
+BFGS        0.3978149 0.0684305083 5.077245     51      4    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.771
+BFGS          NA 0.324
+
+ Equal weight loss is: 4.791609 
+
+ Regression Loss is: 4.558789 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 4.558789 
+
+solution.v:
+ 0.00977017 0.001805667 0.004551025 0.01325135 0.7244704 0.2458785 0.0002728817 
+
+solution.w:
+ 0.2789128 5.6e-08 5.6e-08 7.28e-08 4.13e-08 5.81e-08 1.4928e-06 5.63e-08 7.78e-08 1.24e-07 1.1e-07 2.41e-08 5.72e-08 2.201e-07 8.25e-08 2.3735e-06 4.1e-08 1.192e-07 1.029e-07 3.49e-08 7.1e-09 5.69e-08 5.67e-08 8.77e-08 3.53e-08 0.02586929 7.02e-08 5.69e-08 6.52e-08 1.861e-07 0.6952037 4.01e-08 5.677e-07 2.66e-08 4.77e-08 7.5819e-06 5.52e-08 4.36e-08 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

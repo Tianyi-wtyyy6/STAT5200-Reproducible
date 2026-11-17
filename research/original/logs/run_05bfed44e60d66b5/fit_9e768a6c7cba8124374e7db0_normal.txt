@@ -1,0 +1,41 @@
+fit_id: fit_9e768a6c7cba8124374e7db0  UTC: 2026-11-15T14:23:12.637Z  target: Kentucky  method: SCM_ADH 
+
+X1, X0, Z1, Z0 all come directly from dataprep object.
+
+
+**************** 
+ searching for synthetic control unit  
+ 
+                   p1           p2        p3           p4         p5         p6
+Nelder-Mead  0.028810  0.001042524 0.1177302  0.009521525  0.6953912 0.08192601
+BFGS        -3.631545 -1.025168845 2.4440571 -5.677298180 -0.6487367 5.16802726
+                    p7    value fevals gevals niter convcode kkt1 kkt2 xtime
+Nelder-Mead 0.04472481 446.7176    502     NA    NA        1   NA   NA 1.712
+BFGS        4.87976994 507.2934     69     15    NA        0   NA   NA 1.049
+                    p1           p2         p3            p4        p5
+Nelder-Mead  0.2810562 9.160427e-04 -0.3073683 -0.0006765579 0.6489631
+BFGS        13.7439942 1.492111e+01 -1.5059072  3.7191462523 1.7256499
+                    p6          p7    value fevals gevals niter convcode kkt1
+Nelder-Mead  0.2377788  0.03044019 455.6007    502     NA    NA        1   NA
+BFGS        10.9095968 -9.18459546 507.3217     14      5    NA        0   NA
+            kkt2 xtime
+Nelder-Mead   NA 1.694
+BFGS          NA 0.219
+
+ Equal weight loss is: 446.7176 
+
+ Regression Loss is: 455.6007 
+
+**************** 
+**************** 
+**************** 
+
+MSPE (LOSS V): 446.7176 
+
+solution.v:
+ 0.02942359 0.001064728 0.1202376 0.009724313 0.7102015 0.08367086 0.04567736 
+
+solution.w:
+ 3.512e-07 0.09708264 1.418e-07 9.04e-08 3.263e-07 3.757e-07 1.174e-07 1.606e-07 4.991e-07 1.743e-07 1.777e-07 4.119e-07 2.44e-07 1.26e-07 6.43901e-05 2.628e-07 1.471e-07 1.338e-07 2.729e-07 0.3013893 1.186e-07 0.5683171 1.903e-07 2.321e-07 2.699e-07 1.396e-07 3.638e-07 0.03313937 1.931e-07 7.26e-08 1.513e-07 9.47e-08 5.541e-07 3.311e-07 1.13e-07 1.289e-07 3.029e-07 
+
+WARNING: Selected finite pre-loss candidate has outer optimizer convcode 1 ; retained without post-outcome-based selection. 

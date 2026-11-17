@@ -1,0 +1,8 @@
+Run: run_c3c5036422eb2ddf  Stage: main  UTC: 2026-11-15T14:17:15.997Z 
+[1/375] CA_main SCM_ADH (main)
+FAILED: All numerical attempts failed: object 'cigsale' of mode 'function' was not found 
+[2/375] CA_main SCM_OUTCOME (main)
+  pre RMSPE 1.6564; evaluation mean gap -19.5136; cached=FALSE
+[3/375] CA_main DID (main)
+  pre RMSPE 7.1572; evaluation mean gap -27.3491; cached=FALSE
+Stage completed at 2026-11-15T14:17:35.895Z 

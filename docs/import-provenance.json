@@ -1,0 +1,9 @@
+{
+  "archive_name": "STAT5200_Reproducible_No_Report_2026-11-16.zip",
+  "sha256": "dc9eee43591b86c7b384e9761bc3457c87ea38852c8fd8f125e5434a2e5d34a6",
+  "import_directory": "research/original",
+  "manifest_verified_files": 1831,
+  "source_main_commit": "a159df1801a4e757916cad34f62d6152bc385c01",
+  "note": "Uploaded package preserved byte-for-byte. Historical validation records are not evidence of the new execution.",
+  "standalone_package": "Extracted without manuscript files or source Git history; prior commit IDs are provenance only."
+}

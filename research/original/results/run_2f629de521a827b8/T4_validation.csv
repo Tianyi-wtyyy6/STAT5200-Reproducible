@@ -1,0 +1,7 @@
+Sample,Method,OK/planned,Fail/skip,Macro,Median,Pooled
+CA blocks,SCM_ADH,0/2,0/2,NA,NA,NA
+CA blocks,SCM_OUTCOME,2/2,0/0,3.79,3.79,4.74
+CA blocks,DID,2/2,0/0,9.68,9.68,9.71
+38 donors,SCM_ADH,38/38,0/0,10.06,8.52,12.10
+38 donors,SCM_OUTCOME,38/38,0/0,10.10,8.07,12.34
+38 donors,DID,38/38,0/0,14.09,11.90,18.30

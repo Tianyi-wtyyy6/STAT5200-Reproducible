@@ -1,0 +1,7 @@
+previous_run,current_run,table,field,n,max_absolute_difference,status,reason
+run_51a5f42fc70bbca7,run_2f629de521a827b8,effect_summary,pre_mspe,373,0.0,pass,Additional metric-role and benchmark provenance; effective model inputs unchanged
+run_51a5f42fc70bbca7,run_2f629de521a827b8,effect_summary,mean_gap,373,0.0,pass,Additional metric-role and benchmark provenance; effective model inputs unchanged
+run_51a5f42fc70bbca7,run_2f629de521a827b8,effect_summary,gap_2000,363,0.0,pass,Additional metric-role and benchmark provenance; effective model inputs unchanged
+run_51a5f42fc70bbca7,run_2f629de521a827b8,effect_summary,relative_reduction_pct,373,0.0,pass,Additional metric-role and benchmark provenance; effective model inputs unchanged
+run_51a5f42fc70bbca7,run_2f629de521a827b8,annual_estimates,y0_hat,11405,0.0,pass,Additional metric-role and benchmark provenance; effective model inputs unchanged
+run_51a5f42fc70bbca7,run_2f629de521a827b8,annual_estimates,gap,11405,0.0,pass,Additional metric-role and benchmark provenance; effective model inputs unchanged
