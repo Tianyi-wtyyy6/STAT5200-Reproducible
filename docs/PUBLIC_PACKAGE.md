@@ -18,7 +18,11 @@ Historical commit IDs in validation records identify provenance only; none of
 those earlier commits are included in this repository. The code package was
 checked for manuscript files and common credential/private-key patterns.
 
-Publication is pending: the GitHub create-repository request was blocked with
-Forbidden at api.github.com. The intended independent repository name is
-Tianyi-wtyyy6/STAT5200-Reproducible. The clone URL in README is the intended
-publication destination, not proof of current public availability.
+## Public repository
+
+The standalone repository is:
+https://github.com/Tianyi-wtyyy6/STAT5200-Reproducible
+
+It is separate from the manuscript repository. Its default branch contains only
+this extracted computational package and its new history. Installation and
+reproduction commands are in the root README.
